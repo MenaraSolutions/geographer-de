@@ -1,0 +1,38 @@
+[
+    {
+        "code": "593116",
+        "long": {
+            "default": "Wilna"
+        }
+    },
+    {
+        "code": "594739",
+        "long": {
+            "default": "Šiauliai"
+        }
+    },
+    {
+        "code": "596128",
+        "long": {
+            "default": "Ponewiesch"
+        }
+    },
+    {
+        "code": "598098",
+        "long": {
+            "default": "Memel"
+        }
+    },
+    {
+        "code": "598316",
+        "long": {
+            "default": "Kauen"
+        }
+    },
+    {
+        "code": "601084",
+        "long": {
+            "default": "Alytus"
+        }
+    }
+]

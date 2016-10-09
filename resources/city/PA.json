@@ -1,0 +1,26 @@
+[
+    {
+        "code": "3700563",
+        "long": {
+            "default": "Tocumen"
+        }
+    },
+    {
+        "code": "3703443",
+        "long": {
+            "default": "Panama-Stadt"
+        }
+    },
+    {
+        "code": "3711668",
+        "long": {
+            "default": "David"
+        }
+    },
+    {
+        "code": "3712076",
+        "long": {
+            "default": "Colón"
+        }
+    }
+]

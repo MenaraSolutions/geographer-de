@@ -1,0 +1,32 @@
+[
+    {
+        "code": "786712",
+        "long": {
+            "default": "Prizren"
+        }
+    },
+    {
+        "code": "786714",
+        "long": {
+            "default": "Priština"
+        }
+    },
+    {
+        "code": "787157",
+        "long": {
+            "default": "Peć"
+        }
+    },
+    {
+        "code": "789225",
+        "long": {
+            "default": "Kosovska Mitrovica"
+        }
+    },
+    {
+        "code": "790674",
+        "long": {
+            "default": "Gnjilane"
+        }
+    }
+]

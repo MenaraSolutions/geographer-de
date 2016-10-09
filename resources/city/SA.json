@@ -1,0 +1,62 @@
+[
+    {
+        "code": "101628",
+        "long": {
+            "default": "Tabuk"
+        }
+    },
+    {
+        "code": "104515",
+        "long": {
+            "default": "Mekka"
+        }
+    },
+    {
+        "code": "105072",
+        "long": {
+            "default": "Chamis Muschait"
+        }
+    },
+    {
+        "code": "105343",
+        "long": {
+            "default": "Dschidda"
+        }
+    },
+    {
+        "code": "107968",
+        "long": {
+            "default": "Taif"
+        }
+    },
+    {
+        "code": "108410",
+        "long": {
+            "default": "Riad"
+        }
+    },
+    {
+        "code": "109223",
+        "long": {
+            "default": "Medina"
+        }
+    },
+    {
+        "code": "109323",
+        "long": {
+            "default": "Al-Chubar"
+        }
+    },
+    {
+        "code": "110336",
+        "long": {
+            "default": "Dammam"
+        }
+    },
+    {
+        "code": "110690",
+        "long": {
+            "default": "Abha"
+        }
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "code": "3583334",
+        "long": {
+            "default": "Santa Ana"
+        }
+    },
+    {
+        "code": "3583361",
+        "long": {
+            "default": "San Salvador"
+        }
+    },
+    {
+        "code": "3584257",
+        "long": {
+            "default": "Santa Tecla"
+        }
+    }
+]

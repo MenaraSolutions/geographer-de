@@ -1,0 +1,98 @@
+[
+    {
+        "code": "783814",
+        "long": {
+            "default": "Zrenjanin"
+        }
+    },
+    {
+        "code": "784227",
+        "long": {
+            "default": "Vranje"
+        }
+    },
+    {
+        "code": "785756",
+        "long": {
+            "default": "Smederevo"
+        }
+    },
+    {
+        "code": "787237",
+        "long": {
+            "default": "Pančevo"
+        }
+    },
+    {
+        "code": "787595",
+        "long": {
+            "default": "Novi Pazar"
+        }
+    },
+    {
+        "code": "787657",
+        "long": {
+            "default": "Niš"
+        }
+    },
+    {
+        "code": "788709",
+        "long": {
+            "default": "Leskovac"
+        }
+    },
+    {
+        "code": "788975",
+        "long": {
+            "default": "Kruševac"
+        }
+    },
+    {
+        "code": "789107",
+        "long": {
+            "default": "Kraljevo"
+        }
+    },
+    {
+        "code": "789128",
+        "long": {
+            "default": "Kragujevac"
+        }
+    },
+    {
+        "code": "792078",
+        "long": {
+            "default": "Čačak"
+        }
+    },
+    {
+        "code": "792680",
+        "long": {
+            "default": "Belgrad"
+        }
+    },
+    {
+        "code": "3188402",
+        "long": {
+            "default": "Valjevo"
+        }
+    },
+    {
+        "code": "3188434",
+        "long": {
+            "default": "Užice"
+        }
+    },
+    {
+        "code": "3189595",
+        "long": {
+            "default": "Subotiza"
+        }
+    },
+    {
+        "code": "3194360",
+        "long": {
+            "default": "Novi Sad"
+        }
+    }
+]

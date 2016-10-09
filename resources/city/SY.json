@@ -1,0 +1,62 @@
+[
+    {
+        "code": "163345",
+        "long": {
+            "default": "Tartus"
+        }
+    },
+    {
+        "code": "163808",
+        "long": {
+            "default": "Palmyra"
+        }
+    },
+    {
+        "code": "167357",
+        "long": {
+            "default": "Manbidsch"
+        }
+    },
+    {
+        "code": "169389",
+        "long": {
+            "default": "Idlib"
+        }
+    },
+    {
+        "code": "169577",
+        "long": {
+            "default": "Homs"
+        }
+    },
+    {
+        "code": "170017",
+        "long": {
+            "default": "Hama"
+        }
+    },
+    {
+        "code": "170063",
+        "long": {
+            "default": "Aleppo"
+        }
+    },
+    {
+        "code": "170654",
+        "long": {
+            "default": "Damaskus"
+        }
+    },
+    {
+        "code": "172955",
+        "long": {
+            "default": "Ar-Raqqah"
+        }
+    },
+    {
+        "code": "173576",
+        "long": {
+            "default": "Latakia"
+        }
+    }
+]

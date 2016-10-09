@@ -1,0 +1,20 @@
+[
+    {
+        "code": "923295",
+        "long": {
+            "default": "Zomba"
+        }
+    },
+    {
+        "code": "927967",
+        "long": {
+            "default": "Lilongwe"
+        }
+    },
+    {
+        "code": "931755",
+        "long": {
+            "default": "Blantyre"
+        }
+    }
+]

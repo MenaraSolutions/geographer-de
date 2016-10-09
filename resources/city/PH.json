@@ -1,0 +1,188 @@
+[
+    {
+        "code": "1680116",
+        "long": {
+            "default": "Valencia City"
+        }
+    },
+    {
+        "code": "1680932",
+        "long": {
+            "default": "Tuguegarao"
+        }
+    },
+    {
+        "code": "1683340",
+        "long": {
+            "default": "Tanauan City"
+        }
+    },
+    {
+        "code": "1684269",
+        "long": {
+            "default": "Tagum City"
+        }
+    },
+    {
+        "code": "1684497",
+        "long": {
+            "default": "Tagbilaran"
+        }
+    },
+    {
+        "code": "1684681",
+        "long": {
+            "default": "Tacurong City"
+        }
+    },
+    {
+        "code": "1685117",
+        "long": {
+            "default": "Tabaco City"
+        }
+    },
+    {
+        "code": "1687894",
+        "long": {
+            "default": "Santa Rosa City"
+        }
+    },
+    {
+        "code": "1689395",
+        "long": {
+            "default": "San Jose del Monte City"
+        }
+    },
+    {
+        "code": "1691150",
+        "long": {
+            "default": "Sagay City"
+        }
+    },
+    {
+        "code": "1692685",
+        "long": {
+            "default": "Puerto Princesa"
+        }
+    },
+    {
+        "code": "1695804",
+        "long": {
+            "default": "Panabo City"
+        }
+    },
+    {
+        "code": "1699802",
+        "long": {
+            "default": "Meycauayan City"
+        }
+    },
+    {
+        "code": "1700360",
+        "long": {
+            "default": "Mati City"
+        }
+    },
+    {
+        "code": "1701668",
+        "long": {
+            "default": "Manila"
+        }
+    },
+    {
+        "code": "1701872",
+        "long": {
+            "default": "Mangaldan"
+        }
+    },
+    {
+        "code": "1702540",
+        "long": {
+            "default": "Malolos City"
+        }
+    },
+    {
+        "code": "1702934",
+        "long": {
+            "default": "Malaybalay City"
+        }
+    },
+    {
+        "code": "1708522",
+        "long": {
+            "default": "Koronadal City"
+        }
+    },
+    {
+        "code": "1711005",
+        "long": {
+            "default": "Iloilo City"
+        }
+    },
+    {
+        "code": "1714956",
+        "long": {
+            "default": "Digos City"
+        }
+    },
+    {
+        "code": "1715348",
+        "long": {
+            "default": "Davao"
+        }
+    },
+    {
+        "code": "1716771",
+        "long": {
+            "default": "Cotabato"
+        }
+    },
+    {
+        "code": "1717512",
+        "long": {
+            "default": "Cebu City"
+        }
+    },
+    {
+        "code": "1717911",
+        "long": {
+            "default": "Catbalogan City"
+        }
+    },
+    {
+        "code": "1720561",
+        "long": {
+            "default": "Calapan City"
+        }
+    },
+    {
+        "code": "1720681",
+        "long": {
+            "default": "Calamba City"
+        }
+    },
+    {
+        "code": "1722186",
+        "long": {
+            "default": "Butuan City"
+        }
+    },
+    {
+        "code": "1724767",
+        "long": {
+            "default": "Bislig City"
+        }
+    },
+    {
+        "code": "1728930",
+        "long": {
+            "default": "Baguio"
+        }
+    },
+    {
+        "code": "1729564",
+        "long": {
+            "default": "Bacolod"
+        }
+    }
+]

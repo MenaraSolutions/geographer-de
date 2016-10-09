@@ -1,0 +1,86 @@
+[
+    {
+        "code": "1732752",
+        "long": {
+            "default": "Johor Bahru"
+        }
+    },
+    {
+        "code": "1733432",
+        "long": {
+            "default": "Kota Kinabalu"
+        }
+    },
+    {
+        "code": "1734052",
+        "long": {
+            "default": "Sandakan"
+        }
+    },
+    {
+        "code": "1734634",
+        "long": {
+            "default": "Ipoh"
+        }
+    },
+    {
+        "code": "1734705",
+        "long": {
+            "default": "Kuala Terengganu"
+        }
+    },
+    {
+        "code": "1734759",
+        "long": {
+            "default": "Malakka"
+        }
+    },
+    {
+        "code": "1734810",
+        "long": {
+            "default": "Seremban"
+        }
+    },
+    {
+        "code": "1735106",
+        "long": {
+            "default": "George Town"
+        }
+    },
+    {
+        "code": "1735158",
+        "long": {
+            "default": "Petaling Jaya"
+        }
+    },
+    {
+        "code": "1735161",
+        "long": {
+            "default": "Kuala Lumpur"
+        }
+    },
+    {
+        "code": "1735498",
+        "long": {
+            "default": "Sungai Petani"
+        }
+    },
+    {
+        "code": "1735634",
+        "long": {
+            "default": "Kuching"
+        }
+    },
+    {
+        "code": "1736278",
+        "long": {
+            "default": "Kangar"
+        }
+    },
+    {
+        "code": "1736376",
+        "long": {
+            "default": "Kota Bahru"
+        }
+    }
+]

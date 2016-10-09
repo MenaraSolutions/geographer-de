@@ -1,0 +1,104 @@
+[
+    {
+        "code": "148730",
+        "long": {
+            "default": "Sansibar-Stadt"
+        }
+    },
+    {
+        "code": "149606",
+        "long": {
+            "default": "Tanga"
+        }
+    },
+    {
+        "code": "149658",
+        "long": {
+            "default": "Tabora"
+        }
+    },
+    {
+        "code": "152224",
+        "long": {
+            "default": "Mwanza"
+        }
+    },
+    {
+        "code": "152451",
+        "long": {
+            "default": "Musoma"
+        }
+    },
+    {
+        "code": "153176",
+        "long": {
+            "default": "Mpanda"
+        }
+    },
+    {
+        "code": "153209",
+        "long": {
+            "default": "Moshi"
+        }
+    },
+    {
+        "code": "153220",
+        "long": {
+            "default": "Morogoro"
+        }
+    },
+    {
+        "code": "154380",
+        "long": {
+            "default": "Mbeya"
+        }
+    },
+    {
+        "code": "157738",
+        "long": {
+            "default": "Kigoma"
+        }
+    },
+    {
+        "code": "159071",
+        "long": {
+            "default": "Iringa"
+        }
+    },
+    {
+        "code": "160196",
+        "long": {
+            "default": "Dodoma"
+        }
+    },
+    {
+        "code": "160263",
+        "long": {
+            "default": "Daressalam"
+        }
+    },
+    {
+        "code": "160961",
+        "long": {
+            "default": "Bukoba"
+        }
+    },
+    {
+        "code": "161290",
+        "long": {
+            "default": "Bagamoyo"
+        }
+    },
+    {
+        "code": "161325",
+        "long": {
+            "default": "Arusha"
+        }
+    },
+    {
+        "code": "877401",
+        "long": {
+            "default": "Songea"
+        }
+    }
+]

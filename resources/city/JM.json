@@ -1,0 +1,26 @@
+[
+    {
+        "code": "3488465",
+        "long": {
+            "default": "Spanish Town"
+        }
+    },
+    {
+        "code": "3488981",
+        "long": {
+            "default": "Portmore"
+        }
+    },
+    {
+        "code": "3489460",
+        "long": {
+            "default": "Montego Bay"
+        }
+    },
+    {
+        "code": "3489854",
+        "long": {
+            "default": "Kingston"
+        }
+    }
+]

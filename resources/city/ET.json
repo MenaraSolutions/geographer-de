@@ -1,0 +1,68 @@
+[
+    {
+        "code": "328689",
+        "long": {
+            "default": "Shashemene"
+        }
+    },
+    {
+        "code": "331180",
+        "long": {
+            "default": "Mek’ele"
+        }
+    },
+    {
+        "code": "333373",
+        "long": {
+            "default": "Kembolcha"
+        }
+    },
+    {
+        "code": "333795",
+        "long": {
+            "default": "Jijiga"
+        }
+    },
+    {
+        "code": "335035",
+        "long": {
+            "default": "Harar"
+        }
+    },
+    {
+        "code": "336014",
+        "long": {
+            "default": "Gonder"
+        }
+    },
+    {
+        "code": "338832",
+        "long": {
+            "default": "Dire Dawa"
+        }
+    },
+    {
+        "code": "339219",
+        "long": {
+            "default": "Dese"
+        }
+    },
+    {
+        "code": "342884",
+        "long": {
+            "default": "Bahar Dar"
+        }
+    },
+    {
+        "code": "343137",
+        "long": {
+            "default": "Awassa"
+        }
+    },
+    {
+        "code": "344979",
+        "long": {
+            "default": "Addis Abeba"
+        }
+    }
+]

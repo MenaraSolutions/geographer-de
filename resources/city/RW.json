@@ -1,0 +1,20 @@
+[
+    {
+        "code": "202061",
+        "long": {
+            "default": "Kigali"
+        }
+    },
+    {
+        "code": "202905",
+        "long": {
+            "default": "Gisenyi"
+        }
+    },
+    {
+        "code": "203112",
+        "long": {
+            "default": "Butare"
+        }
+    }
+]

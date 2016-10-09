@@ -1,0 +1,134 @@
+[
+    {
+        "code": "3665542",
+        "long": {
+            "default": "Zipaquirá"
+        }
+    },
+    {
+        "code": "3665900",
+        "long": {
+            "default": "Villavicencio"
+        }
+    },
+    {
+        "code": "3666304",
+        "long": {
+            "default": "Valledupar"
+        }
+    },
+    {
+        "code": "3667905",
+        "long": {
+            "default": "Soacha"
+        }
+    },
+    {
+        "code": "3668605",
+        "long": {
+            "default": "Santa Marta"
+        }
+    },
+    {
+        "code": "3670745",
+        "long": {
+            "default": "Riohacha"
+        }
+    },
+    {
+        "code": "3672486",
+        "long": {
+            "default": "Pereira"
+        }
+    },
+    {
+        "code": "3672778",
+        "long": {
+            "default": "Pasto"
+        }
+    },
+    {
+        "code": "3674962",
+        "long": {
+            "default": "Medellín"
+        }
+    },
+    {
+        "code": "3675443",
+        "long": {
+            "default": "Manizales"
+        }
+    },
+    {
+        "code": "3675692",
+        "long": {
+            "default": "Magangué"
+        }
+    },
+    {
+        "code": "3680539",
+        "long": {
+            "default": "Ipiales"
+        }
+    },
+    {
+        "code": "3682028",
+        "long": {
+            "default": "Girardot"
+        }
+    },
+    {
+        "code": "3685533",
+        "long": {
+            "default": "Cúcuta"
+        }
+    },
+    {
+        "code": "3687238",
+        "long": {
+            "default": "Cartagena"
+        }
+    },
+    {
+        "code": "3687925",
+        "long": {
+            "default": "Cali"
+        }
+    },
+    {
+        "code": "3688451",
+        "long": {
+            "default": "Buenaventura"
+        }
+    },
+    {
+        "code": "3688465",
+        "long": {
+            "default": "Bucaramanga"
+        }
+    },
+    {
+        "code": "3688689",
+        "long": {
+            "default": "Bogotá"
+        }
+    },
+    {
+        "code": "3689147",
+        "long": {
+            "default": "Barranquilla"
+        }
+    },
+    {
+        "code": "3689169",
+        "long": {
+            "default": "Barrancabermeja"
+        }
+    },
+    {
+        "code": "3689718",
+        "long": {
+            "default": "Arauca"
+        }
+    }
+]

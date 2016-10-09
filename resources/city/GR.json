@@ -1,0 +1,128 @@
+[
+    {
+        "code": "251833",
+        "long": {
+            "default": "Volos"
+        }
+    },
+    {
+        "code": "252664",
+        "long": {
+            "default": "Trikala"
+        }
+    },
+    {
+        "code": "255274",
+        "long": {
+            "default": "Piräus"
+        }
+    },
+    {
+        "code": "255524",
+        "long": {
+            "default": "Peristeri"
+        }
+    },
+    {
+        "code": "255683",
+        "long": {
+            "default": "Patras"
+        }
+    },
+    {
+        "code": "256075",
+        "long": {
+            "default": "Alt Phaleron"
+        }
+    },
+    {
+        "code": "258620",
+        "long": {
+            "default": "Lamia"
+        }
+    },
+    {
+        "code": "260114",
+        "long": {
+            "default": "Chania"
+        }
+    },
+    {
+        "code": "260133",
+        "long": {
+            "default": "Chalkida"
+        }
+    },
+    {
+        "code": "261414",
+        "long": {
+            "default": "Kallithea"
+        }
+    },
+    {
+        "code": "261604",
+        "long": {
+            "default": "Kalamata"
+        }
+    },
+    {
+        "code": "261745",
+        "long": {
+            "default": "Iraklio"
+        }
+    },
+    {
+        "code": "261779",
+        "long": {
+            "default": "Ioannina"
+        }
+    },
+    {
+        "code": "264371",
+        "long": {
+            "default": "Athen"
+        }
+    },
+    {
+        "code": "400666",
+        "long": {
+            "default": "Rhodos"
+        }
+    },
+    {
+        "code": "734077",
+        "long": {
+            "default": "Thessaloniki"
+        }
+    },
+    {
+        "code": "734330",
+        "long": {
+            "default": "Serres"
+        }
+    },
+    {
+        "code": "735861",
+        "long": {
+            "default": "Kavala"
+        }
+    },
+    {
+        "code": "735914",
+        "long": {
+            "default": "Katerini"
+        }
+    },
+    {
+        "code": "736083",
+        "long": {
+            "default": "Kalamaria"
+        }
+    },
+    {
+        "code": "736928",
+        "long": {
+            "default": "Alexandroupolis"
+        }
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "code": "608668",
+        "long": {
+            "default": "Oral"
+        }
+    },
+    {
+        "code": "609655",
+        "long": {
+            "default": "Karaganda"
+        }
+    },
+    {
+        "code": "610529",
+        "long": {
+            "default": "Atyrau"
+        }
+    },
+    {
+        "code": "610611",
+        "long": {
+            "default": "Aqtöbe"
+        }
+    },
+    {
+        "code": "610612",
+        "long": {
+            "default": "Aqtau"
+        }
+    },
+    {
+        "code": "1516589",
+        "long": {
+            "default": "Schesqasghan"
+        }
+    },
+    {
+        "code": "1516905",
+        "long": {
+            "default": "Taras"
+        }
+    },
+    {
+        "code": "1518980",
+        "long": {
+            "default": "Schymkent"
+        }
+    },
+    {
+        "code": "1519422",
+        "long": {
+            "default": "Semei"
+        }
+    },
+    {
+        "code": "1519922",
+        "long": {
+            "default": "Qysylorda"
+        }
+    },
+    {
+        "code": "1519928",
+        "long": {
+            "default": "Qostanai"
+        }
+    },
+    {
+        "code": "1520172",
+        "long": {
+            "default": "Petropawl"
+        }
+    },
+    {
+        "code": "1520240",
+        "long": {
+            "default": "Pawlodar"
+        }
+    },
+    {
+        "code": "1520316",
+        "long": {
+            "default": "Öskemen"
+        }
+    },
+    {
+        "code": "1521368",
+        "long": {
+            "default": "Baikonur"
+        }
+    },
+    {
+        "code": "1522203",
+        "long": {
+            "default": "Kökschetau"
+        }
+    },
+    {
+        "code": "1524325",
+        "long": {
+            "default": "Ekibastus"
+        }
+    },
+    {
+        "code": "1526273",
+        "long": {
+            "default": "Astana"
+        }
+    },
+    {
+        "code": "1526384",
+        "long": {
+            "default": "Almaty"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "code": "610824",
+        "long": {
+            "default": "Sugdidi"
+        }
+    },
+    {
+        "code": "611717",
+        "long": {
+            "default": "Tiflis"
+        }
+    },
+    {
+        "code": "611847",
+        "long": {
+            "default": "Sochumi"
+        }
+    },
+    {
+        "code": "613607",
+        "long": {
+            "default": "Kutaissi"
+        }
+    },
+    {
+        "code": "615532",
+        "long": {
+            "default": "Batumi"
+        }
+    }
+]

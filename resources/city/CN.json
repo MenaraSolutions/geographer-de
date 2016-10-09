@@ -1,0 +1,788 @@
+[
+    {
+        "code": "1279715",
+        "long": {
+            "default": "Samzhubzê"
+        }
+    },
+    {
+        "code": "1280737",
+        "long": {
+            "default": "Lhasa"
+        }
+    },
+    {
+        "code": "1280849",
+        "long": {
+            "default": "Kaschgar"
+        }
+    },
+    {
+        "code": "1280957",
+        "long": {
+            "default": "Jiayuguan"
+        }
+    },
+    {
+        "code": "1281019",
+        "long": {
+            "default": "Hotan"
+        }
+    },
+    {
+        "code": "1529102",
+        "long": {
+            "default": "Ürümqi"
+        }
+    },
+    {
+        "code": "1529114",
+        "long": {
+            "default": "Turpan"
+        }
+    },
+    {
+        "code": "1529195",
+        "long": {
+            "default": "Shihezi"
+        }
+    },
+    {
+        "code": "1529363",
+        "long": {
+            "default": "Kuqa"
+        }
+    },
+    {
+        "code": "1529376",
+        "long": {
+            "default": "Korla"
+        }
+    },
+    {
+        "code": "1529484",
+        "long": {
+            "default": "Kumul"
+        }
+    },
+    {
+        "code": "1529660",
+        "long": {
+            "default": "Aksu"
+        }
+    },
+    {
+        "code": "1783621",
+        "long": {
+            "default": "Zunyi"
+        }
+    },
+    {
+        "code": "1783745",
+        "long": {
+            "default": "Zigong"
+        }
+    },
+    {
+        "code": "1784642",
+        "long": {
+            "default": "Zhenjiang"
+        }
+    },
+    {
+        "code": "1784658",
+        "long": {
+            "default": "Zhengzhou"
+        }
+    },
+    {
+        "code": "1784853",
+        "long": {
+            "default": "Zhaoqing"
+        }
+    },
+    {
+        "code": "1784990",
+        "long": {
+            "default": "Zhanjiang"
+        }
+    },
+    {
+        "code": "1785018",
+        "long": {
+            "default": "Zhangzhou"
+        }
+    },
+    {
+        "code": "1785286",
+        "long": {
+            "default": "Zibo"
+        }
+    },
+    {
+        "code": "1785453",
+        "long": {
+            "default": "Zaozhuang"
+        }
+    },
+    {
+        "code": "1785710",
+        "long": {
+            "default": "Jinghong"
+        }
+    },
+    {
+        "code": "1786657",
+        "long": {
+            "default": "Yinchuan"
+        }
+    },
+    {
+        "code": "1786764",
+        "long": {
+            "default": "Yichang"
+        }
+    },
+    {
+        "code": "1787227",
+        "long": {
+            "default": "Yangzhou"
+        }
+    },
+    {
+        "code": "1787824",
+        "long": {
+            "default": "Xuzhou"
+        }
+    },
+    {
+        "code": "1788694",
+        "long": {
+            "default": "Xinpu"
+        }
+    },
+    {
+        "code": "1788852",
+        "long": {
+            "default": "Xining"
+        }
+    },
+    {
+        "code": "1789065",
+        "long": {
+            "default": "Ankang"
+        }
+    },
+    {
+        "code": "1789647",
+        "long": {
+            "default": "Xichang"
+        }
+    },
+    {
+        "code": "1790437",
+        "long": {
+            "default": "Zhuhai"
+        }
+    },
+    {
+        "code": "1790630",
+        "long": {
+            "default": "Xi'an"
+        }
+    },
+    {
+        "code": "1790645",
+        "long": {
+            "default": "Xiamen"
+        }
+    },
+    {
+        "code": "1790923",
+        "long": {
+            "default": "Wuxi"
+        }
+    },
+    {
+        "code": "1791236",
+        "long": {
+            "default": "Wuhu"
+        }
+    },
+    {
+        "code": "1791247",
+        "long": {
+            "default": "Wuhan"
+        }
+    },
+    {
+        "code": "1791673",
+        "long": {
+            "default": "Weihai"
+        }
+    },
+    {
+        "code": "1791681",
+        "long": {
+            "default": "Weifang"
+        }
+    },
+    {
+        "code": "1792621",
+        "long": {
+            "default": "Tongling"
+        }
+    },
+    {
+        "code": "1792947",
+        "long": {
+            "default": "Tianjin"
+        }
+    },
+    {
+        "code": "1793346",
+        "long": {
+            "default": "Tangshan"
+        }
+    },
+    {
+        "code": "1793505",
+        "long": {
+            "default": "Taizhou"
+        }
+    },
+    {
+        "code": "1795270",
+        "long": {
+            "default": "Shijiazhuang"
+        }
+    },
+    {
+        "code": "1795565",
+        "long": {
+            "default": "Shenzhen"
+        }
+    },
+    {
+        "code": "1795855",
+        "long": {
+            "default": "Shaoxing"
+        }
+    },
+    {
+        "code": "1795874",
+        "long": {
+            "default": "Shaoguan"
+        }
+    },
+    {
+        "code": "1795928",
+        "long": {
+            "default": "Shanwei"
+        }
+    },
+    {
+        "code": "1795940",
+        "long": {
+            "default": "Shantou"
+        }
+    },
+    {
+        "code": "1796236",
+        "long": {
+            "default": "Shanghai"
+        }
+    },
+    {
+        "code": "1796556",
+        "long": {
+            "default": "Sanya"
+        }
+    },
+    {
+        "code": "1796663",
+        "long": {
+            "default": "Sanming"
+        }
+    },
+    {
+        "code": "1797121",
+        "long": {
+            "default": "Jieyang"
+        }
+    },
+    {
+        "code": "1797132",
+        "long": {
+            "default": "Rizhao"
+        }
+    },
+    {
+        "code": "1797333",
+        "long": {
+            "default": "Qufu"
+        }
+    },
+    {
+        "code": "1797353",
+        "long": {
+            "default": "Quanzhou"
+        }
+    },
+    {
+        "code": "1797595",
+        "long": {
+            "default": "Qinhuangdao"
+        }
+    },
+    {
+        "code": "1797929",
+        "long": {
+            "default": "Qingdao"
+        }
+    },
+    {
+        "code": "1799397",
+        "long": {
+            "default": "Ningbo"
+        }
+    },
+    {
+        "code": "1799629",
+        "long": {
+            "default": "Nanyang"
+        }
+    },
+    {
+        "code": "1799722",
+        "long": {
+            "default": "Nantong"
+        }
+    },
+    {
+        "code": "1799846",
+        "long": {
+            "default": "Nanping"
+        }
+    },
+    {
+        "code": "1799869",
+        "long": {
+            "default": "Nanning"
+        }
+    },
+    {
+        "code": "1799962",
+        "long": {
+            "default": "Nanjing"
+        }
+    },
+    {
+        "code": "1800163",
+        "long": {
+            "default": "Nanchang"
+        }
+    },
+    {
+        "code": "1801722",
+        "long": {
+            "default": "Lüshunkou"
+        }
+    },
+    {
+        "code": "1801792",
+        "long": {
+            "default": "Luoyang"
+        }
+    },
+    {
+        "code": "1803318",
+        "long": {
+            "default": "Linyi"
+        }
+    },
+    {
+        "code": "1803367",
+        "long": {
+            "default": "Linqing"
+        }
+    },
+    {
+        "code": "1803567",
+        "long": {
+            "default": "Linfen"
+        }
+    },
+    {
+        "code": "1804169",
+        "long": {
+            "default": "Lengshuijiang"
+        }
+    },
+    {
+        "code": "1804430",
+        "long": {
+            "default": "Lanzhou"
+        }
+    },
+    {
+        "code": "1804540",
+        "long": {
+            "default": "Langfang"
+        }
+    },
+    {
+        "code": "1804651",
+        "long": {
+            "default": "Kunming"
+        }
+    },
+    {
+        "code": "1804879",
+        "long": {
+            "default": "Kaifeng"
+        }
+    },
+    {
+        "code": "1805518",
+        "long": {
+            "default": "Jining"
+        }
+    },
+    {
+        "code": "1805540",
+        "long": {
+            "default": "Jingzhou"
+        }
+    },
+    {
+        "code": "1805611",
+        "long": {
+            "default": "Jingmen"
+        }
+    },
+    {
+        "code": "1805680",
+        "long": {
+            "default": "Jingdezhen"
+        }
+    },
+    {
+        "code": "1805753",
+        "long": {
+            "default": "Jinan"
+        }
+    },
+    {
+        "code": "1805953",
+        "long": {
+            "default": "Jiaxing"
+        }
+    },
+    {
+        "code": "1806299",
+        "long": {
+            "default": "Jiangmen"
+        }
+    },
+    {
+        "code": "1806408",
+        "long": {
+            "default": "Yangjiang"
+        }
+    },
+    {
+        "code": "1806776",
+        "long": {
+            "default": "Huizhou"
+        }
+    },
+    {
+        "code": "1808392",
+        "long": {
+            "default": "Hengshui"
+        }
+    },
+    {
+        "code": "1808722",
+        "long": {
+            "default": "Hefei"
+        }
+    },
+    {
+        "code": "1808770",
+        "long": {
+            "default": "Hebi"
+        }
+    },
+    {
+        "code": "1808926",
+        "long": {
+            "default": "Hangzhou"
+        }
+    },
+    {
+        "code": "1809078",
+        "long": {
+            "default": "Haikou"
+        }
+    },
+    {
+        "code": "1809461",
+        "long": {
+            "default": "Guiyang"
+        }
+    },
+    {
+        "code": "1809498",
+        "long": {
+            "default": "Guilin"
+        }
+    },
+    {
+        "code": "1809858",
+        "long": {
+            "default": "Guangzhou"
+        }
+    },
+    {
+        "code": "1810821",
+        "long": {
+            "default": "Fuzhou"
+        }
+    },
+    {
+        "code": "1810845",
+        "long": {
+            "default": "Fuyang"
+        }
+    },
+    {
+        "code": "1811103",
+        "long": {
+            "default": "Foshan"
+        }
+    },
+    {
+        "code": "1812101",
+        "long": {
+            "default": "Dongying"
+        }
+    },
+    {
+        "code": "1812545",
+        "long": {
+            "default": "Dongguan"
+        }
+    },
+    {
+        "code": "1812955",
+        "long": {
+            "default": "Dezhou"
+        }
+    },
+    {
+        "code": "1813253",
+        "long": {
+            "default": "Lijiang"
+        }
+    },
+    {
+        "code": "1814082",
+        "long": {
+            "default": "Shunde"
+        }
+    },
+    {
+        "code": "1814093",
+        "long": {
+            "default": "Dali"
+        }
+    },
+    {
+        "code": "1814906",
+        "long": {
+            "default": "Chongqing"
+        }
+    },
+    {
+        "code": "1815286",
+        "long": {
+            "default": "Chengdu"
+        }
+    },
+    {
+        "code": "1815395",
+        "long": {
+            "default": "Chaozhou"
+        }
+    },
+    {
+        "code": "1815456",
+        "long": {
+            "default": "Changzhou"
+        }
+    },
+    {
+        "code": "1815577",
+        "long": {
+            "default": "Changsha"
+        }
+    },
+    {
+        "code": "1816080",
+        "long": {
+            "default": "Cangzhou"
+        }
+    },
+    {
+        "code": "1816440",
+        "long": {
+            "default": "Bengbu"
+        }
+    },
+    {
+        "code": "1816670",
+        "long": {
+            "default": "Peking"
+        }
+    },
+    {
+        "code": "1816971",
+        "long": {
+            "default": "Baoding"
+        }
+    },
+    {
+        "code": "1817993",
+        "long": {
+            "default": "Anqing"
+        }
+    },
+    {
+        "code": "1886760",
+        "long": {
+            "default": "Suzhou"
+        }
+    },
+    {
+        "code": "2033196",
+        "long": {
+            "default": "Zhangjiakou"
+        }
+    },
+    {
+        "code": "2034400",
+        "long": {
+            "default": "Tongliao"
+        }
+    },
+    {
+        "code": "2034937",
+        "long": {
+            "default": "Shenyang"
+        }
+    },
+    {
+        "code": "2035265",
+        "long": {
+            "default": "Qiqihar"
+        }
+    },
+    {
+        "code": "2035715",
+        "long": {
+            "default": "Mudanjiang"
+        }
+    },
+    {
+        "code": "2035836",
+        "long": {
+            "default": "Manzhouli"
+        }
+    },
+    {
+        "code": "2036389",
+        "long": {
+            "default": "Jixi"
+        }
+    },
+    {
+        "code": "2036502",
+        "long": {
+            "default": "Jilin"
+        }
+    },
+    {
+        "code": "2036581",
+        "long": {
+            "default": "Jiamusi"
+        }
+    },
+    {
+        "code": "2036892",
+        "long": {
+            "default": "Hohhot"
+        }
+    },
+    {
+        "code": "2036973",
+        "long": {
+            "default": "Heihe"
+        }
+    },
+    {
+        "code": "2037013",
+        "long": {
+            "default": "Harbin"
+        }
+    },
+    {
+        "code": "2037078",
+        "long": {
+            "default": "Hailar"
+        }
+    },
+    {
+        "code": "2037346",
+        "long": {
+            "default": "Fuxin"
+        }
+    },
+    {
+        "code": "2037799",
+        "long": {
+            "default": "Datong"
+        }
+    },
+    {
+        "code": "2037886",
+        "long": {
+            "default": "Dandong"
+        }
+    },
+    {
+        "code": "2038067",
+        "long": {
+            "default": "Tschiföng"
+        }
+    },
+    {
+        "code": "2038087",
+        "long": {
+            "default": "Chengde"
+        }
+    },
+    {
+        "code": "2038180",
+        "long": {
+            "default": "Chángchūn"
+        }
+    },
+    {
+        "code": "2038300",
+        "long": {
+            "default": "Benxi"
+        }
+    }
+]

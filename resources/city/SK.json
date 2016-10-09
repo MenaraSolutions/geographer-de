@@ -1,0 +1,68 @@
+[
+    {
+        "code": "723819",
+        "long": {
+            "default": "Prešov"
+        }
+    },
+    {
+        "code": "723846",
+        "long": {
+            "default": "Deutschendorf"
+        }
+    },
+    {
+        "code": "724443",
+        "long": {
+            "default": "Košice"
+        }
+    },
+    {
+        "code": "3056508",
+        "long": {
+            "default": "Sillein"
+        }
+    },
+    {
+        "code": "3057124",
+        "long": {
+            "default": "Trnava"
+        }
+    },
+    {
+        "code": "3057140",
+        "long": {
+            "default": "Trentschin"
+        }
+    },
+    {
+        "code": "3058000",
+        "long": {
+            "default": "Prievidza"
+        }
+    },
+    {
+        "code": "3058531",
+        "long": {
+            "default": "Neutra"
+        }
+    },
+    {
+        "code": "3058780",
+        "long": {
+            "default": "Turz-Sankt Martin"
+        }
+    },
+    {
+        "code": "3060972",
+        "long": {
+            "default": "Pressburg"
+        }
+    },
+    {
+        "code": "3061186",
+        "long": {
+            "default": "Banská Bystrica"
+        }
+    }
+]

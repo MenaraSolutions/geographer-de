@@ -1,0 +1,20 @@
+[
+    {
+        "code": "2364104",
+        "long": {
+            "default": "Sokodé"
+        }
+    },
+    {
+        "code": "2365267",
+        "long": {
+            "default": "Lomé"
+        }
+    },
+    {
+        "code": "2365560",
+        "long": {
+            "default": "Kpalimé"
+        }
+    }
+]

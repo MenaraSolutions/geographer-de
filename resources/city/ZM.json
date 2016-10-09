@@ -1,0 +1,74 @@
+[
+    {
+        "code": "901344",
+        "long": {
+            "default": "Ndola"
+        }
+    },
+    {
+        "code": "905395",
+        "long": {
+            "default": "Mufulira"
+        }
+    },
+    {
+        "code": "907111",
+        "long": {
+            "default": "Mazabuka"
+        }
+    },
+    {
+        "code": "909137",
+        "long": {
+            "default": "Lusaka"
+        }
+    },
+    {
+        "code": "909863",
+        "long": {
+            "default": "Luanshya"
+        }
+    },
+    {
+        "code": "910111",
+        "long": {
+            "default": "Livingstone"
+        }
+    },
+    {
+        "code": "911148",
+        "long": {
+            "default": "Kitwe"
+        }
+    },
+    {
+        "code": "912764",
+        "long": {
+            "default": "Kasama"
+        }
+    },
+    {
+        "code": "914959",
+        "long": {
+            "default": "Kalulushi"
+        }
+    },
+    {
+        "code": "916095",
+        "long": {
+            "default": "Kabwe"
+        }
+    },
+    {
+        "code": "918702",
+        "long": {
+            "default": "Chipata"
+        }
+    },
+    {
+        "code": "919009",
+        "long": {
+            "default": "Chingola"
+        }
+    }
+]

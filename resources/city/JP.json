@@ -1,0 +1,584 @@
+[
+    {
+        "code": "1847963",
+        "long": {
+            "default": "Atsugi"
+        }
+    },
+    {
+        "code": "1848277",
+        "long": {
+            "default": "Yonago"
+        }
+    },
+    {
+        "code": "1848354",
+        "long": {
+            "default": "Yokohama"
+        }
+    },
+    {
+        "code": "1848522",
+        "long": {
+            "default": "Yao"
+        }
+    },
+    {
+        "code": "1848689",
+        "long": {
+            "default": "Yamaguchi"
+        }
+    },
+    {
+        "code": "1849053",
+        "long": {
+            "default": "Utsunomiya"
+        }
+    },
+    {
+        "code": "1849186",
+        "long": {
+            "default": "Urayasu"
+        }
+    },
+    {
+        "code": "1849372",
+        "long": {
+            "default": "Uji"
+        }
+    },
+    {
+        "code": "1849796",
+        "long": {
+            "default": "Tsu"
+        }
+    },
+    {
+        "code": "1849846",
+        "long": {
+            "default": "Toyohashi"
+        }
+    },
+    {
+        "code": "1849904",
+        "long": {
+            "default": "Tosu"
+        }
+    },
+    {
+        "code": "1850147",
+        "long": {
+            "default": "Tokyo"
+        }
+    },
+    {
+        "code": "1850158",
+        "long": {
+            "default": "Tokushima"
+        }
+    },
+    {
+        "code": "1850181",
+        "long": {
+            "default": "Tokorozawa"
+        }
+    },
+    {
+        "code": "1850207",
+        "long": {
+            "default": "Toki"
+        }
+    },
+    {
+        "code": "1850910",
+        "long": {
+            "default": "Takatsuki"
+        }
+    },
+    {
+        "code": "1851002",
+        "long": {
+            "default": "Takasaki"
+        }
+    },
+    {
+        "code": "1851100",
+        "long": {
+            "default": "Takamatsu"
+        }
+    },
+    {
+        "code": "1851348",
+        "long": {
+            "default": "Suzuka"
+        }
+    },
+    {
+        "code": "1851483",
+        "long": {
+            "default": "Suita"
+        }
+    },
+    {
+        "code": "1851717",
+        "long": {
+            "default": "Shizuoka"
+        }
+    },
+    {
+        "code": "1852736",
+        "long": {
+            "default": "Sendai"
+        }
+    },
+    {
+        "code": "1852899",
+        "long": {
+            "default": "Sasebo"
+        }
+    },
+    {
+        "code": "1853140",
+        "long": {
+            "default": "Sakata"
+        }
+    },
+    {
+        "code": "1853195",
+        "long": {
+            "default": "Sakai"
+        }
+    },
+    {
+        "code": "1853574",
+        "long": {
+            "default": "Ōtsu"
+        }
+    },
+    {
+        "code": "1853909",
+        "long": {
+            "default": "Ōsaka"
+        }
+    },
+    {
+        "code": "1854376",
+        "long": {
+            "default": "Okazaki"
+        }
+    },
+    {
+        "code": "1854383",
+        "long": {
+            "default": "Okayama"
+        }
+    },
+    {
+        "code": "1854487",
+        "long": {
+            "default": "Ōita"
+        }
+    },
+    {
+        "code": "1854902",
+        "long": {
+            "default": "Numazu"
+        }
+    },
+    {
+        "code": "1855095",
+        "long": {
+            "default": "Nobeoka"
+        }
+    },
+    {
+        "code": "1855207",
+        "long": {
+            "default": "Nishinomiya"
+        }
+    },
+    {
+        "code": "1855431",
+        "long": {
+            "default": "Niigata"
+        }
+    },
+    {
+        "code": "1855612",
+        "long": {
+            "default": "Nara"
+        }
+    },
+    {
+        "code": "1856035",
+        "long": {
+            "default": "Naha"
+        }
+    },
+    {
+        "code": "1856057",
+        "long": {
+            "default": "Nagoya"
+        }
+    },
+    {
+        "code": "1856177",
+        "long": {
+            "default": "Nagasaki"
+        }
+    },
+    {
+        "code": "1857519",
+        "long": {
+            "default": "Matsumoto"
+        }
+    },
+    {
+        "code": "1857553",
+        "long": {
+            "default": "Matsudo"
+        }
+    },
+    {
+        "code": "1857665",
+        "long": {
+            "default": "Marugame"
+        }
+    },
+    {
+        "code": "1857766",
+        "long": {
+            "default": "Maizuru"
+        }
+    },
+    {
+        "code": "1857843",
+        "long": {
+            "default": "Maebashi"
+        }
+    },
+    {
+        "code": "1857871",
+        "long": {
+            "default": "Machida"
+        }
+    },
+    {
+        "code": "1857910",
+        "long": {
+            "default": "Kyōto"
+        }
+    },
+    {
+        "code": "1858296",
+        "long": {
+            "default": "Kure"
+        }
+    },
+    {
+        "code": "1858311",
+        "long": {
+            "default": "Kurashiki"
+        }
+    },
+    {
+        "code": "1858421",
+        "long": {
+            "default": "Kumamoto"
+        }
+    },
+    {
+        "code": "1858729",
+        "long": {
+            "default": "Koshigaya"
+        }
+    },
+    {
+        "code": "1859100",
+        "long": {
+            "default": "Kōfu"
+        }
+    },
+    {
+        "code": "1859171",
+        "long": {
+            "default": "Kōbe"
+        }
+    },
+    {
+        "code": "1859307",
+        "long": {
+            "default": "Kitakyūshū"
+        }
+    },
+    {
+        "code": "1859383",
+        "long": {
+            "default": "Kishiwada"
+        }
+    },
+    {
+        "code": "1859393",
+        "long": {
+            "default": "Kisarazu"
+        }
+    },
+    {
+        "code": "1859642",
+        "long": {
+            "default": "Kawasaki"
+        }
+    },
+    {
+        "code": "1859730",
+        "long": {
+            "default": "Kawaguchi"
+        }
+    },
+    {
+        "code": "1859884",
+        "long": {
+            "default": "Kasukabe"
+        }
+    },
+    {
+        "code": "1859924",
+        "long": {
+            "default": "Kashiwa"
+        }
+    },
+    {
+        "code": "1860063",
+        "long": {
+            "default": "Karatsu"
+        }
+    },
+    {
+        "code": "1860243",
+        "long": {
+            "default": "Kanazawa"
+        }
+    },
+    {
+        "code": "1860672",
+        "long": {
+            "default": "Kamakura"
+        }
+    },
+    {
+        "code": "1860704",
+        "long": {
+            "default": "Kakogawa"
+        }
+    },
+    {
+        "code": "1860827",
+        "long": {
+            "default": "Kagoshima"
+        }
+    },
+    {
+        "code": "1861310",
+        "long": {
+            "default": "Itami"
+        }
+    },
+    {
+        "code": "1861528",
+        "long": {
+            "default": "Inuyama"
+        }
+    },
+    {
+        "code": "1861949",
+        "long": {
+            "default": "Ichinomiya"
+        }
+    },
+    {
+        "code": "1862415",
+        "long": {
+            "default": "Hiroshima"
+        }
+    },
+    {
+        "code": "1862462",
+        "long": {
+            "default": "Hiratsuka"
+        }
+    },
+    {
+        "code": "1862540",
+        "long": {
+            "default": "Hirakata"
+        }
+    },
+    {
+        "code": "1862627",
+        "long": {
+            "default": "Himeji"
+        }
+    },
+    {
+        "code": "1863209",
+        "long": {
+            "default": "Handa"
+        }
+    },
+    {
+        "code": "1863289",
+        "long": {
+            "default": "Hamamatsu"
+        }
+    },
+    {
+        "code": "1863431",
+        "long": {
+            "default": "Hadano"
+        }
+    },
+    {
+        "code": "1863440",
+        "long": {
+            "default": "Hachiōji"
+        }
+    },
+    {
+        "code": "1863641",
+        "long": {
+            "default": "Gifu"
+        }
+    },
+    {
+        "code": "1863905",
+        "long": {
+            "default": "Funabashi"
+        }
+    },
+    {
+        "code": "1863967",
+        "long": {
+            "default": "Fukuoka"
+        }
+    },
+    {
+        "code": "1864985",
+        "long": {
+            "default": "Ashiya"
+        }
+    },
+    {
+        "code": "1865005",
+        "long": {
+            "default": "Ashikaga"
+        }
+    },
+    {
+        "code": "1865294",
+        "long": {
+            "default": "Anjō"
+        }
+    },
+    {
+        "code": "1865387",
+        "long": {
+            "default": "Amagasaki"
+        }
+    },
+    {
+        "code": "1907301",
+        "long": {
+            "default": "Shimotoda"
+        }
+    },
+    {
+        "code": "1926099",
+        "long": {
+            "default": "Matsuyama"
+        }
+    },
+    {
+        "code": "2111149",
+        "long": {
+            "default": "Sendai"
+        }
+    },
+    {
+        "code": "2111684",
+        "long": {
+            "default": "Narita"
+        }
+    },
+    {
+        "code": "2111834",
+        "long": {
+            "default": "Morioka"
+        }
+    },
+    {
+        "code": "2111855",
+        "long": {
+            "default": "Mobara"
+        }
+    },
+    {
+        "code": "2112664",
+        "long": {
+            "default": "Ichihara"
+        }
+    },
+    {
+        "code": "2113015",
+        "long": {
+            "default": "Chiba"
+        }
+    },
+    {
+        "code": "2113126",
+        "long": {
+            "default": "Akita"
+        }
+    },
+    {
+        "code": "2128295",
+        "long": {
+            "default": "Sapporo"
+        }
+    },
+    {
+        "code": "2128574",
+        "long": {
+            "default": "Otaru"
+        }
+    },
+    {
+        "code": "2128867",
+        "long": {
+            "default": "Noshiro"
+        }
+    },
+    {
+        "code": "2129376",
+        "long": {
+            "default": "Kushiro-shi"
+        }
+    },
+    {
+        "code": "2130057",
+        "long": {
+            "default": "Hirosaki"
+        }
+    },
+    {
+        "code": "2130188",
+        "long": {
+            "default": "Hakodate"
+        }
+    },
+    {
+        "code": "2130658",
+        "long": {
+            "default": "Aomori"
+        }
+    }
+]

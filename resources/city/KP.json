@@ -1,0 +1,56 @@
+[
+    {
+        "code": "1866923",
+        "long": {
+            "default": "Wŏnsan"
+        }
+    },
+    {
+        "code": "1870883",
+        "long": {
+            "default": "Sariwŏn"
+        }
+    },
+    {
+        "code": "1871859",
+        "long": {
+            "default": "Pjöngjang"
+        }
+    },
+    {
+        "code": "1876373",
+        "long": {
+            "default": "Kaesŏng"
+        }
+    },
+    {
+        "code": "1877449",
+        "long": {
+            "default": "Hamhŭng"
+        }
+    },
+    {
+        "code": "2040893",
+        "long": {
+            "default": "Sinŭiju"
+        }
+    },
+    {
+        "code": "2043572",
+        "long": {
+            "default": "Kanggye"
+        }
+    },
+    {
+        "code": "2043837",
+        "long": {
+            "default": "Hyesan"
+        }
+    },
+    {
+        "code": "2044757",
+        "long": {
+            "default": "Ch’ŏngjin"
+        }
+    }
+]

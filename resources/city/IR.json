@@ -1,0 +1,236 @@
+[
+    {
+        "code": "14256",
+        "long": {
+            "default": "Azad Shahr"
+        }
+    },
+    {
+        "code": "66093",
+        "long": {
+            "default": "Yasudsch"
+        }
+    },
+    {
+        "code": "111822",
+        "long": {
+            "default": "Yazd"
+        }
+    },
+    {
+        "code": "112931",
+        "long": {
+            "default": "Teheran"
+        }
+    },
+    {
+        "code": "113646",
+        "long": {
+            "default": "Täbris"
+        }
+    },
+    {
+        "code": "114259",
+        "long": {
+            "default": "Sirdschan"
+        }
+    },
+    {
+        "code": "114593",
+        "long": {
+            "default": "Susa"
+        }
+    },
+    {
+        "code": "115019",
+        "long": {
+            "default": "Schiras"
+        }
+    },
+    {
+        "code": "116996",
+        "long": {
+            "default": "Sari"
+        }
+    },
+    {
+        "code": "117392",
+        "long": {
+            "default": "Saqqez"
+        }
+    },
+    {
+        "code": "117574",
+        "long": {
+            "default": "Sanandadsch"
+        }
+    },
+    {
+        "code": "118743",
+        "long": {
+            "default": "Rascht"
+        }
+    },
+    {
+        "code": "119208",
+        "long": {
+            "default": "Qom"
+        }
+    },
+    {
+        "code": "119505",
+        "long": {
+            "default": "Qazvin"
+        }
+    },
+    {
+        "code": "121110",
+        "long": {
+            "default": "Piranschahr"
+        }
+    },
+    {
+        "code": "121801",
+        "long": {
+            "default": "Urmia"
+        }
+    },
+    {
+        "code": "122285",
+        "long": {
+            "default": "Nischapur"
+        }
+    },
+    {
+        "code": "124665",
+        "long": {
+            "default": "Mashhad"
+        }
+    },
+    {
+        "code": "125446",
+        "long": {
+            "default": "Mahabad"
+        }
+    },
+    {
+        "code": "127319",
+        "long": {
+            "default": "Chorramschahr"
+        }
+    },
+    {
+        "code": "127349",
+        "long": {
+            "default": "Khorramabad"
+        }
+    },
+    {
+        "code": "128226",
+        "long": {
+            "default": "Kermānschāh"
+        }
+    },
+    {
+        "code": "128234",
+        "long": {
+            "default": "Kerman"
+        }
+    },
+    {
+        "code": "128477",
+        "long": {
+            "default": "Kashan"
+        }
+    },
+    {
+        "code": "128747",
+        "long": {
+            "default": "Karadsch"
+        }
+    },
+    {
+        "code": "132892",
+        "long": {
+            "default": "Gorgan"
+        }
+    },
+    {
+        "code": "135423",
+        "long": {
+            "default": "Emamshahr"
+        }
+    },
+    {
+        "code": "139817",
+        "long": {
+            "default": "Buschehr"
+        }
+    },
+    {
+        "code": "140463",
+        "long": {
+            "default": "Birdschand"
+        }
+    },
+    {
+        "code": "141679",
+        "long": {
+            "default": "Bandar Anzali"
+        }
+    },
+    {
+        "code": "141681",
+        "long": {
+            "default": "Bandar Abbas"
+        }
+    },
+    {
+        "code": "141736",
+        "long": {
+            "default": "Bam"
+        }
+    },
+    {
+        "code": "142363",
+        "long": {
+            "default": "Babol"
+        }
+    },
+    {
+        "code": "143083",
+        "long": {
+            "default": "Ardabil"
+        }
+    },
+    {
+        "code": "143127",
+        "long": {
+            "default": "Arak"
+        }
+    },
+    {
+        "code": "144448",
+        "long": {
+            "default": "Ahvaz"
+        }
+    },
+    {
+        "code": "145459",
+        "long": {
+            "default": "Abadan"
+        }
+    },
+    {
+        "code": "418863",
+        "long": {
+            "default": "Isfahan"
+        }
+    },
+    {
+        "code": "1159301",
+        "long": {
+            "default": "Zahedan"
+        }
+    }
+]

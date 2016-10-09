@@ -1,0 +1,38 @@
+[
+    {
+        "code": "1293625",
+        "long": {
+            "default": "Tavoy"
+        }
+    },
+    {
+        "code": "1298824",
+        "long": {
+            "default": "Rangun"
+        }
+    },
+    {
+        "code": "1298987",
+        "long": {
+            "default": "Pyinmana"
+        }
+    },
+    {
+        "code": "1300466",
+        "long": {
+            "default": "Bago"
+        }
+    },
+    {
+        "code": "1302439",
+        "long": {
+            "default": "Pakokku"
+        }
+    },
+    {
+        "code": "1311874",
+        "long": {
+            "default": "Mandalay"
+        }
+    }
+]

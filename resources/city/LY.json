@@ -1,0 +1,32 @@
+[
+    {
+        "code": "81302",
+        "long": {
+            "default": "Tobruk"
+        }
+    },
+    {
+        "code": "88319",
+        "long": {
+            "default": "Banghazi"
+        }
+    },
+    {
+        "code": "89113",
+        "long": {
+            "default": "Adschdabiya"
+        }
+    },
+    {
+        "code": "2210247",
+        "long": {
+            "default": "Tripolis"
+        }
+    },
+    {
+        "code": "2219905",
+        "long": {
+            "default": "Al-Chums"
+        }
+    }
+]

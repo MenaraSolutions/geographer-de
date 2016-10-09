@@ -1,0 +1,110 @@
+[
+    {
+        "code": "618800",
+        "long": {
+            "default": "Schodsina"
+        }
+    },
+    {
+        "code": "620127",
+        "long": {
+            "default": "Wizebsk"
+        }
+    },
+    {
+        "code": "621741",
+        "long": {
+            "default": "Sluzk"
+        }
+    },
+    {
+        "code": "621754",
+        "long": {
+            "default": "Slonim"
+        }
+    },
+    {
+        "code": "622428",
+        "long": {
+            "default": "Salihorsk"
+        }
+    },
+    {
+        "code": "623317",
+        "long": {
+            "default": "Polazk"
+        }
+    },
+    {
+        "code": "623549",
+        "long": {
+            "default": "Pinsk"
+        }
+    },
+    {
+        "code": "624079",
+        "long": {
+            "default": "Orscha"
+        }
+    },
+    {
+        "code": "624784",
+        "long": {
+            "default": "Nawapolazk"
+        }
+    },
+    {
+        "code": "625144",
+        "long": {
+            "default": "Minsk"
+        }
+    },
+    {
+        "code": "625324",
+        "long": {
+            "default": "Masyr"
+        }
+    },
+    {
+        "code": "625665",
+        "long": {
+            "default": "Mahiljou"
+        }
+    },
+    {
+        "code": "626081",
+        "long": {
+            "default": "Lida"
+        }
+    },
+    {
+        "code": "627904",
+        "long": {
+            "default": "Hrodna"
+        }
+    },
+    {
+        "code": "627907",
+        "long": {
+            "default": "Homel"
+        }
+    },
+    {
+        "code": "629634",
+        "long": {
+            "default": "Brest"
+        }
+    },
+    {
+        "code": "630429",
+        "long": {
+            "default": "Baranawitschy"
+        }
+    },
+    {
+        "code": "630468",
+        "long": {
+            "default": "Babruisk"
+        }
+    }
+]

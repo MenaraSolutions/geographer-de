@@ -1,0 +1,92 @@
+[
+    {
+        "code": "364103",
+        "long": {
+            "default": "Wad Madani"
+        }
+    },
+    {
+        "code": "365137",
+        "long": {
+            "default": "Omdurman"
+        }
+    },
+    {
+        "code": "367644",
+        "long": {
+            "default": "Sannar"
+        }
+    },
+    {
+        "code": "368277",
+        "long": {
+            "default": "Rabak"
+        }
+    },
+    {
+        "code": "371760",
+        "long": {
+            "default": "Kusti"
+        }
+    },
+    {
+        "code": "372753",
+        "long": {
+            "default": "Kassala"
+        }
+    },
+    {
+        "code": "373141",
+        "long": {
+            "default": "Kaduqli"
+        }
+    },
+    {
+        "code": "377039",
+        "long": {
+            "default": "Bur Sudan"
+        }
+    },
+    {
+        "code": "378231",
+        "long": {
+            "default": "Atbara"
+        }
+    },
+    {
+        "code": "379003",
+        "long": {
+            "default": "Al-Ubayyid"
+        }
+    },
+    {
+        "code": "379062",
+        "long": {
+            "default": "Al-Qadarif"
+        }
+    },
+    {
+        "code": "379252",
+        "long": {
+            "default": "Khartum"
+        }
+    },
+    {
+        "code": "379555",
+        "long": {
+            "default": "Al-Faschir"
+        }
+    },
+    {
+        "code": "380173",
+        "long": {
+            "default": "Ad-Damir"
+        }
+    },
+    {
+        "code": "380174",
+        "long": {
+            "default": "Ad-Damazin"
+        }
+    }
+]

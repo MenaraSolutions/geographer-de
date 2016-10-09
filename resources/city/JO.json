@@ -1,0 +1,32 @@
+[
+    {
+        "code": "248370",
+        "long": {
+            "default": "Madaba"
+        }
+    },
+    {
+        "code": "248946",
+        "long": {
+            "default": "Irbid"
+        }
+    },
+    {
+        "code": "250090",
+        "long": {
+            "default": "Zarqa"
+        }
+    },
+    {
+        "code": "250441",
+        "long": {
+            "default": "Amman"
+        }
+    },
+    {
+        "code": "250774",
+        "long": {
+            "default": "Aqaba"
+        }
+    }
+]

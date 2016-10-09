@@ -1,0 +1,32 @@
+[
+    {
+        "code": "2279755",
+        "long": {
+            "default": "Yamoussoukro"
+        }
+    },
+    {
+        "code": "2286304",
+        "long": {
+            "default": "Korhogo"
+        }
+    },
+    {
+        "code": "2288115",
+        "long": {
+            "default": "Grand-Bassam"
+        }
+    },
+    {
+        "code": "2290956",
+        "long": {
+            "default": "Bouaké"
+        }
+    },
+    {
+        "code": "2293538",
+        "long": {
+            "default": "Abidjan"
+        }
+    }
+]

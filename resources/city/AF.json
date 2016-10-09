@@ -1,0 +1,68 @@
+[
+    {
+        "code": "1133616",
+        "long": {
+            "default": "Masar-e Scharif"
+        }
+    },
+    {
+        "code": "1135689",
+        "long": {
+            "default": "Kundus"
+        }
+    },
+    {
+        "code": "1138336",
+        "long": {
+            "default": "Kandahar"
+        }
+    },
+    {
+        "code": "1138958",
+        "long": {
+            "default": "Kabul"
+        }
+    },
+    {
+        "code": "1139715",
+        "long": {
+            "default": "Dschalalabad"
+        }
+    },
+    {
+        "code": "1140026",
+        "long": {
+            "default": "Herat"
+        }
+    },
+    {
+        "code": "1141269",
+        "long": {
+            "default": "Ghazni"
+        }
+    },
+    {
+        "code": "1141857",
+        "long": {
+            "default": "Gardez"
+        }
+    },
+    {
+        "code": "1145352",
+        "long": {
+            "default": "Tscharikar"
+        }
+    },
+    {
+        "code": "1147290",
+        "long": {
+            "default": "Balch"
+        }
+    },
+    {
+        "code": "1147540",
+        "long": {
+            "default": "Baglan"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "code": "161616",
+        "long": {
+            "default": "Balkanabat"
+        }
+    },
+    {
+        "code": "162183",
+        "long": {
+            "default": "Aschgabat"
+        }
+    },
+    {
+        "code": "601594",
+        "long": {
+            "default": "Türkmenbaşy"
+        }
+    },
+    {
+        "code": "601734",
+        "long": {
+            "default": "Daşoguz"
+        }
+    },
+    {
+        "code": "1218667",
+        "long": {
+            "default": "Mary"
+        }
+    },
+    {
+        "code": "1219649",
+        "long": {
+            "default": "Türkmenabat"
+        }
+    }
+]

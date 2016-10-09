@@ -1,0 +1,56 @@
+[
+    {
+        "code": "1562414",
+        "long": {
+            "default": "Vung Tau"
+        }
+    },
+    {
+        "code": "1566083",
+        "long": {
+            "default": "Ho-Chi-Minh-Stadt"
+        }
+    },
+    {
+        "code": "1569684",
+        "long": {
+            "default": "Plei Cu"
+        }
+    },
+    {
+        "code": "1572151",
+        "long": {
+            "default": "Nha Trang"
+        }
+    },
+    {
+        "code": "1580240",
+        "long": {
+            "default": "Huế"
+        }
+    },
+    {
+        "code": "1581130",
+        "long": {
+            "default": "Hanoi"
+        }
+    },
+    {
+        "code": "1581298",
+        "long": {
+            "default": "Haiphong"
+        }
+    },
+    {
+        "code": "1583992",
+        "long": {
+            "default": "Đà Nẵng"
+        }
+    },
+    {
+        "code": "1586203",
+        "long": {
+            "default": "Cần Thơ"
+        }
+    }
+]

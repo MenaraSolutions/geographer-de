@@ -1,0 +1,116 @@
+[
+    {
+        "code": "89570",
+        "long": {
+            "default": "Zaxo"
+        }
+    },
+    {
+        "code": "94787",
+        "long": {
+            "default": "Kirkuk"
+        }
+    },
+    {
+        "code": "94824",
+        "long": {
+            "default": "Kerbela"
+        }
+    },
+    {
+        "code": "95446",
+        "long": {
+            "default": "Arbil"
+        }
+    },
+    {
+        "code": "96205",
+        "long": {
+            "default": "Halabdscha"
+        }
+    },
+    {
+        "code": "96994",
+        "long": {
+            "default": "Dohuk"
+        }
+    },
+    {
+        "code": "97990",
+        "long": {
+            "default": "Baquba"
+        }
+    },
+    {
+        "code": "98182",
+        "long": {
+            "default": "Bagdad"
+        }
+    },
+    {
+        "code": "98463",
+        "long": {
+            "default": "Sulaimaniyya"
+        }
+    },
+    {
+        "code": "98717",
+        "long": {
+            "default": "Ramadi"
+        }
+    },
+    {
+        "code": "98854",
+        "long": {
+            "default": "Nasiriyya"
+        }
+    },
+    {
+        "code": "98860",
+        "long": {
+            "default": "Nadschaf"
+        }
+    },
+    {
+        "code": "99072",
+        "long": {
+            "default": "Mossul"
+        }
+    },
+    {
+        "code": "99131",
+        "long": {
+            "default": "Kut"
+        }
+    },
+    {
+        "code": "99135",
+        "long": {
+            "default": "Kufa"
+        }
+    },
+    {
+        "code": "99347",
+        "long": {
+            "default": "Hilla"
+        }
+    },
+    {
+        "code": "99454",
+        "long": {
+            "default": "Falludscha"
+        }
+    },
+    {
+        "code": "99532",
+        "long": {
+            "default": "Basra"
+        }
+    },
+    {
+        "code": "100077",
+        "long": {
+            "default": "Abu Ghuraib"
+        }
+    }
+]

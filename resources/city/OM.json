@@ -1,0 +1,38 @@
+[
+    {
+        "code": "286245",
+        "long": {
+            "default": "Sur"
+        }
+    },
+    {
+        "code": "286282",
+        "long": {
+            "default": "Suhar"
+        }
+    },
+    {
+        "code": "286621",
+        "long": {
+            "default": "Salala"
+        }
+    },
+    {
+        "code": "287286",
+        "long": {
+            "default": "Maskat"
+        }
+    },
+    {
+        "code": "289011",
+        "long": {
+            "default": "Rustaq"
+        }
+    },
+    {
+        "code": "289317",
+        "long": {
+            "default": "Buraimi"
+        }
+    }
+]

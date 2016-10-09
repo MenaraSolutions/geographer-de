@@ -1,0 +1,152 @@
+[
+    {
+        "code": "2475687",
+        "long": {
+            "default": "Tlemcen"
+        }
+    },
+    {
+        "code": "2475744",
+        "long": {
+            "default": "Tizi Ouzou"
+        }
+    },
+    {
+        "code": "2477461",
+        "long": {
+            "default": "Tebessa"
+        }
+    },
+    {
+        "code": "2478216",
+        "long": {
+            "default": "Tamanrasset"
+        }
+    },
+    {
+        "code": "2479215",
+        "long": {
+            "default": "Souq Ahras"
+        }
+    },
+    {
+        "code": "2481007",
+        "long": {
+            "default": "Sidi bel Abbès"
+        }
+    },
+    {
+        "code": "2481700",
+        "long": {
+            "default": "Sétif"
+        }
+    },
+    {
+        "code": "2482572",
+        "long": {
+            "default": "Saida"
+        }
+    },
+    {
+        "code": "2483668",
+        "long": {
+            "default": "Relizane"
+        }
+    },
+    {
+        "code": "2485926",
+        "long": {
+            "default": "Oran"
+        }
+    },
+    {
+        "code": "2487134",
+        "long": {
+            "default": "Mostaganem"
+        }
+    },
+    {
+        "code": "2490098",
+        "long": {
+            "default": "Muaskar"
+        }
+    },
+    {
+        "code": "2491191",
+        "long": {
+            "default": "Laghouat"
+        }
+    },
+    {
+        "code": "2495662",
+        "long": {
+            "default": "Guelma"
+        }
+    },
+    {
+        "code": "2496049",
+        "long": {
+            "default": "Ghardaia"
+        }
+    },
+    {
+        "code": "2498543",
+        "long": {
+            "default": "El Bayadh"
+        }
+    },
+    {
+        "code": "2498611",
+        "long": {
+            "default": "Ech Cheliff"
+        }
+    },
+    {
+        "code": "2503701",
+        "long": {
+            "default": "Bordj Bou Arreridj"
+        }
+    },
+    {
+        "code": "2503769",
+        "long": {
+            "default": "Blida"
+        }
+    },
+    {
+        "code": "2503826",
+        "long": {
+            "default": "Biskra"
+        }
+    },
+    {
+        "code": "2505329",
+        "long": {
+            "default": "Bejaia"
+        }
+    },
+    {
+        "code": "2505530",
+        "long": {
+            "default": "Bechar"
+        }
+    },
+    {
+        "code": "2505572",
+        "long": {
+            "default": "Batna"
+        }
+    },
+    {
+        "code": "2506999",
+        "long": {
+            "default": "Annaba"
+        }
+    },
+    {
+        "code": "2507480",
+        "long": {
+            "default": "Algier"
+        }
+    }
+]

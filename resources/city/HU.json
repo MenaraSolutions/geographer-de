@@ -1,0 +1,122 @@
+[
+    {
+        "code": "715126",
+        "long": {
+            "default": "Szolnok"
+        }
+    },
+    {
+        "code": "715429",
+        "long": {
+            "default": "Szegedin"
+        }
+    },
+    {
+        "code": "717582",
+        "long": {
+            "default": "Miskolc"
+        }
+    },
+    {
+        "code": "721239",
+        "long": {
+            "default": "Erlau"
+        }
+    },
+    {
+        "code": "721472",
+        "long": {
+            "default": "Debrecen"
+        }
+    },
+    {
+        "code": "722437",
+        "long": {
+            "default": "Békéscsaba"
+        }
+    },
+    {
+        "code": "3042638",
+        "long": {
+            "default": "Zalaegerszeg"
+        }
+    },
+    {
+        "code": "3042929",
+        "long": {
+            "default": "Wesprim"
+        }
+    },
+    {
+        "code": "3044082",
+        "long": {
+            "default": "Tatabánya"
+        }
+    },
+    {
+        "code": "3044310",
+        "long": {
+            "default": "Steinamanger"
+        }
+    },
+    {
+        "code": "3044774",
+        "long": {
+            "default": "Székesfehérvár"
+        }
+    },
+    {
+        "code": "3045190",
+        "long": {
+            "default": "Ödenburg"
+        }
+    },
+    {
+        "code": "3046526",
+        "long": {
+            "default": "Fünfkirchen"
+        }
+    },
+    {
+        "code": "3047679",
+        "long": {
+            "default": "Nagykanizsa"
+        }
+    },
+    {
+        "code": "3050434",
+        "long": {
+            "default": "Kecskemét"
+        }
+    },
+    {
+        "code": "3050616",
+        "long": {
+            "default": "Kaposvár"
+        }
+    },
+    {
+        "code": "3052009",
+        "long": {
+            "default": "Raab"
+        }
+    },
+    {
+        "code": "3053281",
+        "long": {
+            "default": "Érd"
+        }
+    },
+    {
+        "code": "3053438",
+        "long": {
+            "default": "Dunaújváros"
+        }
+    },
+    {
+        "code": "3054643",
+        "long": {
+            "default": "Budapest"
+        }
+    }
+]

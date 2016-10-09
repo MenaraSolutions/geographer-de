@@ -1,0 +1,26 @@
+[
+    {
+        "code": "3718426",
+        "long": {
+            "default": "Port-au-Prince"
+        }
+    },
+    {
+        "code": "3723779",
+        "long": {
+            "default": "Jacmel"
+        }
+    },
+    {
+        "code": "3724696",
+        "long": {
+            "default": "Gonaïves"
+        }
+    },
+    {
+        "code": "3728474",
+        "long": {
+            "default": "Cap-Haitien"
+        }
+    }
+]

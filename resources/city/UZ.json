@@ -1,0 +1,74 @@
+[
+    {
+        "code": "601294",
+        "long": {
+            "default": "Nukus"
+        }
+    },
+    {
+        "code": "1215957",
+        "long": {
+            "default": "Termiz"
+        }
+    },
+    {
+        "code": "1216265",
+        "long": {
+            "default": "Samarqand"
+        }
+    },
+    {
+        "code": "1217474",
+        "long": {
+            "default": "Denov"
+        }
+    },
+    {
+        "code": "1217662",
+        "long": {
+            "default": "Buchara"
+        }
+    },
+    {
+        "code": "1512473",
+        "long": {
+            "default": "Urganch"
+        }
+    },
+    {
+        "code": "1512569",
+        "long": {
+            "default": "Taschkent"
+        }
+    },
+    {
+        "code": "1512979",
+        "long": {
+            "default": "Qoʻqon"
+        }
+    },
+    {
+        "code": "1513604",
+        "long": {
+            "default": "Xiva"
+        }
+    },
+    {
+        "code": "1514019",
+        "long": {
+            "default": "Fargʻona"
+        }
+    },
+    {
+        "code": "1514581",
+        "long": {
+            "default": "Angren"
+        }
+    },
+    {
+        "code": "1514588",
+        "long": {
+            "default": "Andijon"
+        }
+    }
+]

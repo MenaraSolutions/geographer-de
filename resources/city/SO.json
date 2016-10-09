@@ -1,0 +1,50 @@
+[
+    {
+        "code": "53654",
+        "long": {
+            "default": "Mogadischu"
+        }
+    },
+    {
+        "code": "55671",
+        "long": {
+            "default": "Kismaayo"
+        }
+    },
+    {
+        "code": "56399",
+        "long": {
+            "default": "Jamaame"
+        }
+    },
+    {
+        "code": "58933",
+        "long": {
+            "default": "Garowe"
+        }
+    },
+    {
+        "code": "59611",
+        "long": {
+            "default": "Gaalkacyo"
+        }
+    },
+    {
+        "code": "64013",
+        "long": {
+            "default": "Bosaso"
+        }
+    },
+    {
+        "code": "64435",
+        "long": {
+            "default": "Berbera"
+        }
+    },
+    {
+        "code": "64536",
+        "long": {
+            "default": "Baidoa"
+        }
+    }
+]

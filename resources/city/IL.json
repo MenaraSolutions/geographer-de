@@ -1,0 +1,116 @@
+[
+    {
+        "code": "281184",
+        "long": {
+            "default": "Jerusalem"
+        }
+    },
+    {
+        "code": "293253",
+        "long": {
+            "default": "Jaffa"
+        }
+    },
+    {
+        "code": "293397",
+        "long": {
+            "default": "Tel Aviv"
+        }
+    },
+    {
+        "code": "293703",
+        "long": {
+            "default": "Rischon LeZion"
+        }
+    },
+    {
+        "code": "293768",
+        "long": {
+            "default": "Ramla"
+        }
+    },
+    {
+        "code": "293788",
+        "long": {
+            "default": "Ramat Gan"
+        }
+    },
+    {
+        "code": "294071",
+        "long": {
+            "default": "Netanja"
+        }
+    },
+    {
+        "code": "294098",
+        "long": {
+            "default": "Nazaret"
+        }
+    },
+    {
+        "code": "294117",
+        "long": {
+            "default": "Naharija"
+        }
+    },
+    {
+        "code": "294421",
+        "long": {
+            "default": "Lod"
+        }
+    },
+    {
+        "code": "294751",
+        "long": {
+            "default": "Cholon"
+        }
+    },
+    {
+        "code": "294778",
+        "long": {
+            "default": "Herzlia"
+        }
+    },
+    {
+        "code": "294801",
+        "long": {
+            "default": "Haifa"
+        }
+    },
+    {
+        "code": "294946",
+        "long": {
+            "default": "Chadera"
+        }
+    },
+    {
+        "code": "295432",
+        "long": {
+            "default": "Bet Schemesch"
+        }
+    },
+    {
+        "code": "295530",
+        "long": {
+            "default": "Be’er Scheva"
+        }
+    },
+    {
+        "code": "295548",
+        "long": {
+            "default": "Bat Jam"
+        }
+    },
+    {
+        "code": "295629",
+        "long": {
+            "default": "Aschdod"
+        }
+    },
+    {
+        "code": "7498240",
+        "long": {
+            "default": "Westjerusalem"
+        }
+    }
+]

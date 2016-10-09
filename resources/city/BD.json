@@ -1,0 +1,50 @@
+[
+    {
+        "code": "1185098",
+        "long": {
+            "default": "Tongi"
+        }
+    },
+    {
+        "code": "1185099",
+        "long": {
+            "default": "Sylhet"
+        }
+    },
+    {
+        "code": "1185128",
+        "long": {
+            "default": "Rajshahi"
+        }
+    },
+    {
+        "code": "1185162",
+        "long": {
+            "default": "Mymensingh"
+        }
+    },
+    {
+        "code": "1185186",
+        "long": {
+            "default": "Kumilla"
+        }
+    },
+    {
+        "code": "1185241",
+        "long": {
+            "default": "Dhaka"
+        }
+    },
+    {
+        "code": "1205733",
+        "long": {
+            "default": "Chittagong"
+        }
+    },
+    {
+        "code": "1336135",
+        "long": {
+            "default": "Khulna"
+        }
+    }
+]

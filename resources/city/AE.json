@@ -1,0 +1,38 @@
+[
+    {
+        "code": "291074",
+        "long": {
+            "default": "Ra’s al-Chaima"
+        }
+    },
+    {
+        "code": "292223",
+        "long": {
+            "default": "Dubai"
+        }
+    },
+    {
+        "code": "292672",
+        "long": {
+            "default": "Schardscha"
+        }
+    },
+    {
+        "code": "292878",
+        "long": {
+            "default": "Fudschaira"
+        }
+    },
+    {
+        "code": "292913",
+        "long": {
+            "default": "Al-Ain"
+        }
+    },
+    {
+        "code": "292968",
+        "long": {
+            "default": "Abu Dhabi"
+        }
+    }
+]

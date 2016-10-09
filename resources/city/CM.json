@@ -1,0 +1,32 @@
+[
+    {
+        "code": "2220957",
+        "long": {
+            "default": "Yaoundé"
+        }
+    },
+    {
+        "code": "2223763",
+        "long": {
+            "default": "Nkongsamba"
+        }
+    },
+    {
+        "code": "2231320",
+        "long": {
+            "default": "Garoua"
+        }
+    },
+    {
+        "code": "2232239",
+        "long": {
+            "default": "Edéa"
+        }
+    },
+    {
+        "code": "2232593",
+        "long": {
+            "default": "Douala"
+        }
+    }
+]

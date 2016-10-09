@@ -1,0 +1,50 @@
+[
+    {
+        "code": "2657896",
+        "long": {
+            "default": "Zürich"
+        }
+    },
+    {
+        "code": "2657970",
+        "long": {
+            "default": "Winterthur"
+        }
+    },
+    {
+        "code": "2658822",
+        "long": {
+            "default": "St. Gallen"
+        }
+    },
+    {
+        "code": "2659811",
+        "long": {
+            "default": "Luzern"
+        }
+    },
+    {
+        "code": "2659994",
+        "long": {
+            "default": "Lausanne"
+        }
+    },
+    {
+        "code": "2660646",
+        "long": {
+            "default": "Genf"
+        }
+    },
+    {
+        "code": "2661552",
+        "long": {
+            "default": "Bern"
+        }
+    },
+    {
+        "code": "2661604",
+        "long": {
+            "default": "Basel"
+        }
+    }
+]

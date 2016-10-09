@@ -1,0 +1,122 @@
+[
+    {
+        "code": "347497",
+        "long": {
+            "default": "Tanta"
+        }
+    },
+    {
+        "code": "350203",
+        "long": {
+            "default": "Rosette"
+        }
+    },
+    {
+        "code": "352733",
+        "long": {
+            "default": "Marsa Matruh"
+        }
+    },
+    {
+        "code": "353802",
+        "long": {
+            "default": "Kom Ombo"
+        }
+    },
+    {
+        "code": "355449",
+        "long": {
+            "default": "Esna"
+        }
+    },
+    {
+        "code": "355635",
+        "long": {
+            "default": "Edfu"
+        }
+    },
+    {
+        "code": "358048",
+        "long": {
+            "default": "Damiette"
+        }
+    },
+    {
+        "code": "358619",
+        "long": {
+            "default": "Port Said"
+        }
+    },
+    {
+        "code": "358840",
+        "long": {
+            "default": "Bilbeis"
+        }
+    },
+    {
+        "code": "359792",
+        "long": {
+            "default": "Assuan"
+        }
+    },
+    {
+        "code": "359796",
+        "long": {
+            "default": "Sues"
+        }
+    },
+    {
+        "code": "360502",
+        "long": {
+            "default": "Luxor"
+        }
+    },
+    {
+        "code": "360630",
+        "long": {
+            "default": "Kairo"
+        }
+    },
+    {
+        "code": "360761",
+        "long": {
+            "default": "Al-Mansura"
+        }
+    },
+    {
+        "code": "360995",
+        "long": {
+            "default": "Gizeh"
+        }
+    },
+    {
+        "code": "361055",
+        "long": {
+            "default": "Ismailia"
+        }
+    },
+    {
+        "code": "361058",
+        "long": {
+            "default": "Alexandria"
+        }
+    },
+    {
+        "code": "361291",
+        "long": {
+            "default": "Hurghada"
+        }
+    },
+    {
+        "code": "361320",
+        "long": {
+            "default": "Al-Fayyum"
+        }
+    },
+    {
+        "code": "361546",
+        "long": {
+            "default": "Al-Arisch"
+        }
+    }
+]

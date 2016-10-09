@@ -1,0 +1,602 @@
+[
+    {
+        "code": "1252948",
+        "long": {
+            "default": "Warangal"
+        }
+    },
+    {
+        "code": "1253102",
+        "long": {
+            "default": "Visakhapatnam"
+        }
+    },
+    {
+        "code": "1253184",
+        "long": {
+            "default": "Vijayawada"
+        }
+    },
+    {
+        "code": "1253286",
+        "long": {
+            "default": "Velur"
+        }
+    },
+    {
+        "code": "1253405",
+        "long": {
+            "default": "Varanasi"
+        }
+    },
+    {
+        "code": "1253573",
+        "long": {
+            "default": "Vadodara"
+        }
+    },
+    {
+        "code": "1253914",
+        "long": {
+            "default": "Ujjain"
+        }
+    },
+    {
+        "code": "1253993",
+        "long": {
+            "default": "Udagamandalam"
+        }
+    },
+    {
+        "code": "1254163",
+        "long": {
+            "default": "Thiruvananthapuram"
+        }
+    },
+    {
+        "code": "1254187",
+        "long": {
+            "default": "Thrissur"
+        }
+    },
+    {
+        "code": "1254327",
+        "long": {
+            "default": "Tiruvannamalai"
+        }
+    },
+    {
+        "code": "1254361",
+        "long": {
+            "default": "Tirunelveli"
+        }
+    },
+    {
+        "code": "1254388",
+        "long": {
+            "default": "Tiruchirappalli"
+        }
+    },
+    {
+        "code": "1254649",
+        "long": {
+            "default": "Tanjavur"
+        }
+    },
+    {
+        "code": "1255364",
+        "long": {
+            "default": "Surat"
+        }
+    },
+    {
+        "code": "1255634",
+        "long": {
+            "default": "Srinagar"
+        }
+    },
+    {
+        "code": "1256237",
+        "long": {
+            "default": "Shimla"
+        }
+    },
+    {
+        "code": "1256436",
+        "long": {
+            "default": "Solapur"
+        }
+    },
+    {
+        "code": "1256523",
+        "long": {
+            "default": "Shillong"
+        }
+    },
+    {
+        "code": "1256525",
+        "long": {
+            "default": "Shiliguri"
+        }
+    },
+    {
+        "code": "1257629",
+        "long": {
+            "default": "Selam"
+        }
+    },
+    {
+        "code": "1258526",
+        "long": {
+            "default": "Ranchi"
+        }
+    },
+    {
+        "code": "1258847",
+        "long": {
+            "default": "Rajkot"
+        }
+    },
+    {
+        "code": "1259091",
+        "long": {
+            "default": "Kollam"
+        }
+    },
+    {
+        "code": "1259184",
+        "long": {
+            "default": "Puri"
+        }
+    },
+    {
+        "code": "1259229",
+        "long": {
+            "default": "Pune"
+        }
+    },
+    {
+        "code": "1259297",
+        "long": {
+            "default": "Pudukkottai"
+        }
+    },
+    {
+        "code": "1259385",
+        "long": {
+            "default": "Port Blair"
+        }
+    },
+    {
+        "code": "1259425",
+        "long": {
+            "default": "Pondicherry"
+        }
+    },
+    {
+        "code": "1260086",
+        "long": {
+            "default": "Patna"
+        }
+    },
+    {
+        "code": "1260476",
+        "long": {
+            "default": "Panipat"
+        }
+    },
+    {
+        "code": "1260607",
+        "long": {
+            "default": "Panaji"
+        }
+    },
+    {
+        "code": "1261481",
+        "long": {
+            "default": "Neu-Delhi"
+        }
+    },
+    {
+        "code": "1261669",
+        "long": {
+            "default": "Nabadwip"
+        }
+    },
+    {
+        "code": "1262180",
+        "long": {
+            "default": "Nagpur"
+        }
+    },
+    {
+        "code": "1262204",
+        "long": {
+            "default": "Nagarkovil"
+        }
+    },
+    {
+        "code": "1262321",
+        "long": {
+            "default": "Mysuru"
+        }
+    },
+    {
+        "code": "1263214",
+        "long": {
+            "default": "Merath"
+        }
+    },
+    {
+        "code": "1263780",
+        "long": {
+            "default": "Mangaluru"
+        }
+    },
+    {
+        "code": "1264115",
+        "long": {
+            "default": "Malegaon"
+        }
+    },
+    {
+        "code": "1264521",
+        "long": {
+            "default": "Madurai"
+        }
+    },
+    {
+        "code": "1264527",
+        "long": {
+            "default": "Chennai"
+        }
+    },
+    {
+        "code": "1264728",
+        "long": {
+            "default": "Ludhiana"
+        }
+    },
+    {
+        "code": "1264733",
+        "long": {
+            "default": "Lucknow"
+        }
+    },
+    {
+        "code": "1265873",
+        "long": {
+            "default": "Kozhikode"
+        }
+    },
+    {
+        "code": "1266366",
+        "long": {
+            "default": "Kohima"
+        }
+    },
+    {
+        "code": "1267995",
+        "long": {
+            "default": "Kanpur"
+        }
+    },
+    {
+        "code": "1268159",
+        "long": {
+            "default": "Kanchipuram"
+        }
+    },
+    {
+        "code": "1268865",
+        "long": {
+            "default": "Jodhpur"
+        }
+    },
+    {
+        "code": "1269300",
+        "long": {
+            "default": "Jamshedpur"
+        }
+    },
+    {
+        "code": "1269321",
+        "long": {
+            "default": "Jammu"
+        }
+    },
+    {
+        "code": "1269507",
+        "long": {
+            "default": "Jaisalmer"
+        }
+    },
+    {
+        "code": "1269515",
+        "long": {
+            "default": "Jaipur"
+        }
+    },
+    {
+        "code": "1269633",
+        "long": {
+            "default": "Jabalpur"
+        }
+    },
+    {
+        "code": "1269743",
+        "long": {
+            "default": "Indore"
+        }
+    },
+    {
+        "code": "1269771",
+        "long": {
+            "default": "Imphal"
+        }
+    },
+    {
+        "code": "1269843",
+        "long": {
+            "default": "Hyderabad"
+        }
+    },
+    {
+        "code": "1270164",
+        "long": {
+            "default": "Hazaribag"
+        }
+    },
+    {
+        "code": "1270351",
+        "long": {
+            "default": "Haridwar"
+        }
+    },
+    {
+        "code": "1270396",
+        "long": {
+            "default": "Haora"
+        }
+    },
+    {
+        "code": "1270752",
+        "long": {
+            "default": "Gulbarga"
+        }
+    },
+    {
+        "code": "1271175",
+        "long": {
+            "default": "Giridih"
+        }
+    },
+    {
+        "code": "1271308",
+        "long": {
+            "default": "Ghaziabad"
+        }
+    },
+    {
+        "code": "1271476",
+        "long": {
+            "default": "Gauhati"
+        }
+    },
+    {
+        "code": "1271715",
+        "long": {
+            "default": "Gandhinagar"
+        }
+    },
+    {
+        "code": "1271951",
+        "long": {
+            "default": "Faridabad"
+        }
+    },
+    {
+        "code": "1272013",
+        "long": {
+            "default": "Irodu"
+        }
+    },
+    {
+        "code": "1272175",
+        "long": {
+            "default": "Durgapur"
+        }
+    },
+    {
+        "code": "1272543",
+        "long": {
+            "default": "Dindukkal"
+        }
+    },
+    {
+        "code": "1272979",
+        "long": {
+            "default": "Dhanbad"
+        }
+    },
+    {
+        "code": "1273265",
+        "long": {
+            "default": "Deoband"
+        }
+    },
+    {
+        "code": "1273294",
+        "long": {
+            "default": "Delhi"
+        }
+    },
+    {
+        "code": "1273467",
+        "long": {
+            "default": "Darjiling"
+        }
+    },
+    {
+        "code": "1273865",
+        "long": {
+            "default": "Coimbatore"
+        }
+    },
+    {
+        "code": "1273874",
+        "long": {
+            "default": "Kochi"
+        }
+    },
+    {
+        "code": "1274746",
+        "long": {
+            "default": "Chandigarh"
+        }
+    },
+    {
+        "code": "1275004",
+        "long": {
+            "default": "Kalkutta"
+        }
+    },
+    {
+        "code": "1275163",
+        "long": {
+            "default": "Badaun"
+        }
+    },
+    {
+        "code": "1275339",
+        "long": {
+            "default": "Mumbai"
+        }
+    },
+    {
+        "code": "1275665",
+        "long": {
+            "default": "Bikaner"
+        }
+    },
+    {
+        "code": "1275701",
+        "long": {
+            "default": "Bijapur"
+        }
+    },
+    {
+        "code": "1275817",
+        "long": {
+            "default": "Bhubaneshwar"
+        }
+    },
+    {
+        "code": "1275841",
+        "long": {
+            "default": "Bhopal"
+        }
+    },
+    {
+        "code": "1275971",
+        "long": {
+            "default": "Bhilai"
+        }
+    },
+    {
+        "code": "1277333",
+        "long": {
+            "default": "Bengaluru"
+        }
+    },
+    {
+        "code": "1277599",
+        "long": {
+            "default": "Baleswar"
+        }
+    },
+    {
+        "code": "1278094",
+        "long": {
+            "default": "Ayodhya"
+        }
+    },
+    {
+        "code": "1278130",
+        "long": {
+            "default": "Avadi"
+        }
+    },
+    {
+        "code": "1278149",
+        "long": {
+            "default": "Aurangabad"
+        }
+    },
+    {
+        "code": "1278314",
+        "long": {
+            "default": "Asansol"
+        }
+    },
+    {
+        "code": "1278710",
+        "long": {
+            "default": "Amritsar"
+        }
+    },
+    {
+        "code": "1278840",
+        "long": {
+            "default": "Ambattur"
+        }
+    },
+    {
+        "code": "1278985",
+        "long": {
+            "default": "Alappuzha"
+        }
+    },
+    {
+        "code": "1278994",
+        "long": {
+            "default": "Allahabad"
+        }
+    },
+    {
+        "code": "1279017",
+        "long": {
+            "default": "Aligarh"
+        }
+    },
+    {
+        "code": "1279159",
+        "long": {
+            "default": "Ajmer"
+        }
+    },
+    {
+        "code": "1279186",
+        "long": {
+            "default": "Aizol"
+        }
+    },
+    {
+        "code": "1279233",
+        "long": {
+            "default": "Ahmedabad"
+        }
+    },
+    {
+        "code": "1279259",
+        "long": {
+            "default": "Agra"
+        }
+    },
+    {
+        "code": "1279290",
+        "long": {
+            "default": "Agartala"
+        }
+    }
+]

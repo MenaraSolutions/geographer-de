@@ -1,0 +1,56 @@
+[
+    {
+        "code": "884979",
+        "long": {
+            "default": "Mutare"
+        }
+    },
+    {
+        "code": "886763",
+        "long": {
+            "default": "Masvingo"
+        }
+    },
+    {
+        "code": "889453",
+        "long": {
+            "default": "Kadoma"
+        }
+    },
+    {
+        "code": "890299",
+        "long": {
+            "default": "Harare"
+        }
+    },
+    {
+        "code": "890422",
+        "long": {
+            "default": "Gweru"
+        }
+    },
+    {
+        "code": "893697",
+        "long": {
+            "default": "Chinhoyi"
+        }
+    },
+    {
+        "code": "894701",
+        "long": {
+            "default": "Bulawayo"
+        }
+    },
+    {
+        "code": "1085510",
+        "long": {
+            "default": "Epworth"
+        }
+    },
+    {
+        "code": "1106542",
+        "long": {
+            "default": "Chitungwiza"
+        }
+    }
+]

@@ -1,0 +1,1322 @@
+[
+    {
+        "code": "462444",
+        "long": {
+            "default": "Slatoust"
+        }
+    },
+    {
+        "code": "463835",
+        "long": {
+            "default": "Selenodolsk"
+        }
+    },
+    {
+        "code": "466806",
+        "long": {
+            "default": "Joschkar-Ola"
+        }
+    },
+    {
+        "code": "466885",
+        "long": {
+            "default": "Jeisk"
+        }
+    },
+    {
+        "code": "467978",
+        "long": {
+            "default": "Jelez"
+        }
+    },
+    {
+        "code": "468082",
+        "long": {
+            "default": "Jelabuga"
+        }
+    },
+    {
+        "code": "468902",
+        "long": {
+            "default": "Jaroslawl"
+        }
+    },
+    {
+        "code": "470444",
+        "long": {
+            "default": "Wyksa"
+        }
+    },
+    {
+        "code": "470546",
+        "long": {
+            "default": "Wyborg"
+        }
+    },
+    {
+        "code": "471430",
+        "long": {
+            "default": "Wotkinsk"
+        }
+    },
+    {
+        "code": "471656",
+        "long": {
+            "default": "Woskressensk"
+        }
+    },
+    {
+        "code": "472045",
+        "long": {
+            "default": "Woronesch"
+        }
+    },
+    {
+        "code": "472459",
+        "long": {
+            "default": "Wologda"
+        }
+    },
+    {
+        "code": "472757",
+        "long": {
+            "default": "Wolgograd"
+        }
+    },
+    {
+        "code": "472761",
+        "long": {
+            "default": "Wolgodonsk"
+        }
+    },
+    {
+        "code": "473247",
+        "long": {
+            "default": "Wladimir"
+        }
+    },
+    {
+        "code": "473249",
+        "long": {
+            "default": "Wladikawkas"
+        }
+    },
+    {
+        "code": "476077",
+        "long": {
+            "default": "Welikije Luki"
+        }
+    },
+    {
+        "code": "477494",
+        "long": {
+            "default": "Uslowaja"
+        }
+    },
+    {
+        "code": "479123",
+        "long": {
+            "default": "Uljanowsk"
+        }
+    },
+    {
+        "code": "479411",
+        "long": {
+            "default": "Uchta"
+        }
+    },
+    {
+        "code": "479561",
+        "long": {
+            "default": "Ufa"
+        }
+    },
+    {
+        "code": "480060",
+        "long": {
+            "default": "Twer"
+        }
+    },
+    {
+        "code": "480562",
+        "long": {
+            "default": "Tula"
+        }
+    },
+    {
+        "code": "480716",
+        "long": {
+            "default": "Tuapse"
+        }
+    },
+    {
+        "code": "482283",
+        "long": {
+            "default": "Toljatti"
+        }
+    },
+    {
+        "code": "483019",
+        "long": {
+            "default": "Tichwin"
+        }
+    },
+    {
+        "code": "484646",
+        "long": {
+            "default": "Tambow"
+        }
+    },
+    {
+        "code": "484907",
+        "long": {
+            "default": "Taganrog"
+        }
+    },
+    {
+        "code": "485239",
+        "long": {
+            "default": "Syktywkar"
+        }
+    },
+    {
+        "code": "486968",
+        "long": {
+            "default": "Stupino"
+        }
+    },
+    {
+        "code": "487495",
+        "long": {
+            "default": "Sterlitamak"
+        }
+    },
+    {
+        "code": "487846",
+        "long": {
+            "default": "Stawropol"
+        }
+    },
+    {
+        "code": "487928",
+        "long": {
+            "default": "Stary Oskol"
+        }
+    },
+    {
+        "code": "490996",
+        "long": {
+            "default": "Solnetschnogorsk"
+        }
+    },
+    {
+        "code": "491023",
+        "long": {
+            "default": "Solikamsk"
+        }
+    },
+    {
+        "code": "491422",
+        "long": {
+            "default": "Sotschi"
+        }
+    },
+    {
+        "code": "491687",
+        "long": {
+            "default": "Smolensk"
+        }
+    },
+    {
+        "code": "493160",
+        "long": {
+            "default": "Sibai"
+        }
+    },
+    {
+        "code": "493231",
+        "long": {
+            "default": "Schuja"
+        }
+    },
+    {
+        "code": "496015",
+        "long": {
+            "default": "Schachty"
+        }
+    },
+    {
+        "code": "496278",
+        "long": {
+            "default": "Seweromorsk"
+        }
+    },
+    {
+        "code": "496285",
+        "long": {
+            "default": "Sewerodwinsk"
+        }
+    },
+    {
+        "code": "496527",
+        "long": {
+            "default": "Serpuchow"
+        }
+    },
+    {
+        "code": "496638",
+        "long": {
+            "default": "Sergijew Possad"
+        }
+    },
+    {
+        "code": "498525",
+        "long": {
+            "default": "Sarow"
+        }
+    },
+    {
+        "code": "498677",
+        "long": {
+            "default": "Saratow"
+        }
+    },
+    {
+        "code": "498698",
+        "long": {
+            "default": "Saransk"
+        }
+    },
+    {
+        "code": "498817",
+        "long": {
+            "default": "Sankt Petersburg"
+        }
+    },
+    {
+        "code": "499099",
+        "long": {
+            "default": "Samara"
+        }
+    },
+    {
+        "code": "499292",
+        "long": {
+            "default": "Salawat"
+        }
+    },
+    {
+        "code": "499717",
+        "long": {
+            "default": "Rschew"
+        }
+    },
+    {
+        "code": "500004",
+        "long": {
+            "default": "Rybinsk"
+        }
+    },
+    {
+        "code": "500096",
+        "long": {
+            "default": "Rjasan"
+        }
+    },
+    {
+        "code": "501175",
+        "long": {
+            "default": "Rostow am Don"
+        }
+    },
+    {
+        "code": "502011",
+        "long": {
+            "default": "Rewda"
+        }
+    },
+    {
+        "code": "502018",
+        "long": {
+            "default": "Reutow"
+        }
+    },
+    {
+        "code": "503550",
+        "long": {
+            "default": "Pjatigorsk"
+        }
+    },
+    {
+        "code": "503977",
+        "long": {
+            "default": "Puschkino"
+        }
+    },
+    {
+        "code": "504003",
+        "long": {
+            "default": "Puschkin"
+        }
+    },
+    {
+        "code": "504341",
+        "long": {
+            "default": "Pleskau"
+        }
+    },
+    {
+        "code": "508101",
+        "long": {
+            "default": "Podolsk"
+        }
+    },
+    {
+        "code": "509820",
+        "long": {
+            "default": "Petrosawodsk"
+        }
+    },
+    {
+        "code": "510291",
+        "long": {
+            "default": "Peterhof"
+        }
+    },
+    {
+        "code": "511196",
+        "long": {
+            "default": "Perm"
+        }
+    },
+    {
+        "code": "511565",
+        "long": {
+            "default": "Pensa"
+        }
+    },
+    {
+        "code": "514734",
+        "long": {
+            "default": "Orsk"
+        }
+    },
+    {
+        "code": "515003",
+        "long": {
+            "default": "Orenburg"
+        }
+    },
+    {
+        "code": "515012",
+        "long": {
+            "default": "Orjol"
+        }
+    },
+    {
+        "code": "515024",
+        "long": {
+            "default": "Orechowo-Sujewo"
+        }
+    },
+    {
+        "code": "516215",
+        "long": {
+            "default": "Odinzowo"
+        }
+    },
+    {
+        "code": "516436",
+        "long": {
+            "default": "Obninsk"
+        }
+    },
+    {
+        "code": "517836",
+        "long": {
+            "default": "Nowotroizk"
+        }
+    },
+    {
+        "code": "517963",
+        "long": {
+            "default": "Nowoschachtinsk"
+        }
+    },
+    {
+        "code": "518255",
+        "long": {
+            "default": "Noworossijsk"
+        }
+    },
+    {
+        "code": "518557",
+        "long": {
+            "default": "Nowomoskowsk"
+        }
+    },
+    {
+        "code": "518659",
+        "long": {
+            "default": "Nowokuibyschewsk"
+        }
+    },
+    {
+        "code": "518970",
+        "long": {
+            "default": "Nowotscherkassk"
+        }
+    },
+    {
+        "code": "518976",
+        "long": {
+            "default": "Nowotscheboksarsk"
+        }
+    },
+    {
+        "code": "519336",
+        "long": {
+            "default": "Weliki Nowgorod"
+        }
+    },
+    {
+        "code": "520068",
+        "long": {
+            "default": "Noginsk"
+        }
+    },
+    {
+        "code": "520555",
+        "long": {
+            "default": "Nischni Nowgorod"
+        }
+    },
+    {
+        "code": "521118",
+        "long": {
+            "default": "Nischnekamsk"
+        }
+    },
+    {
+        "code": "522377",
+        "long": {
+            "default": "Newinnomyssk"
+        }
+    },
+    {
+        "code": "522942",
+        "long": {
+            "default": "Neftekamsk"
+        }
+    },
+    {
+        "code": "523064",
+        "long": {
+            "default": "Nasran"
+        }
+    },
+    {
+        "code": "523750",
+        "long": {
+            "default": "Nabereschnyje Tschelny"
+        }
+    },
+    {
+        "code": "523812",
+        "long": {
+            "default": "Mytischtschi"
+        }
+    },
+    {
+        "code": "524294",
+        "long": {
+            "default": "Murom"
+        }
+    },
+    {
+        "code": "524305",
+        "long": {
+            "default": "Murmansk"
+        }
+    },
+    {
+        "code": "524901",
+        "long": {
+            "default": "Moskau"
+        }
+    },
+    {
+        "code": "526480",
+        "long": {
+            "default": "Mineralnyje Wody"
+        }
+    },
+    {
+        "code": "527012",
+        "long": {
+            "default": "Michailowka"
+        }
+    },
+    {
+        "code": "527191",
+        "long": {
+            "default": "Mitschurinsk"
+        }
+    },
+    {
+        "code": "527717",
+        "long": {
+            "default": "Meleus"
+        }
+    },
+    {
+        "code": "528293",
+        "long": {
+            "default": "Maikop"
+        }
+    },
+    {
+        "code": "532096",
+        "long": {
+            "default": "Machatschkala"
+        }
+    },
+    {
+        "code": "532288",
+        "long": {
+            "default": "Magnitogorsk"
+        }
+    },
+    {
+        "code": "532615",
+        "long": {
+            "default": "Ljuberzy"
+        }
+    },
+    {
+        "code": "535121",
+        "long": {
+            "default": "Lipezk"
+        }
+    },
+    {
+        "code": "537281",
+        "long": {
+            "default": "Labinsk"
+        }
+    },
+    {
+        "code": "537737",
+        "long": {
+            "default": "Kusnezk"
+        }
+    },
+    {
+        "code": "538560",
+        "long": {
+            "default": "Kursk"
+        }
+    },
+    {
+        "code": "540103",
+        "long": {
+            "default": "Kstowo"
+        }
+    },
+    {
+        "code": "542420",
+        "long": {
+            "default": "Krasnodar"
+        }
+    },
+    {
+        "code": "543460",
+        "long": {
+            "default": "Kowrow"
+        }
+    },
+    {
+        "code": "543878",
+        "long": {
+            "default": "Kostroma"
+        }
+    },
+    {
+        "code": "546230",
+        "long": {
+            "default": "Kolomna"
+        }
+    },
+    {
+        "code": "547475",
+        "long": {
+            "default": "Klinzy"
+        }
+    },
+    {
+        "code": "547523",
+        "long": {
+            "default": "Klin"
+        }
+    },
+    {
+        "code": "547560",
+        "long": {
+            "default": "Klimowsk"
+        }
+    },
+    {
+        "code": "547840",
+        "long": {
+            "default": "Kisljar"
+        }
+    },
+    {
+        "code": "548114",
+        "long": {
+            "default": "Kislowodsk"
+        }
+    },
+    {
+        "code": "548395",
+        "long": {
+            "default": "Kirowo-Tschepezk"
+        }
+    },
+    {
+        "code": "548408",
+        "long": {
+            "default": "Kirow"
+        }
+    },
+    {
+        "code": "548442",
+        "long": {
+            "default": "Kirischi"
+        }
+    },
+    {
+        "code": "548602",
+        "long": {
+            "default": "Kingisepp"
+        }
+    },
+    {
+        "code": "548605",
+        "long": {
+            "default": "Kineschma"
+        }
+    },
+    {
+        "code": "550280",
+        "long": {
+            "default": "Chimki"
+        }
+    },
+    {
+        "code": "551487",
+        "long": {
+            "default": "Kasan"
+        }
+    },
+    {
+        "code": "551847",
+        "long": {
+            "default": "Kaspijsk"
+        }
+    },
+    {
+        "code": "553287",
+        "long": {
+            "default": "Kamyschin"
+        }
+    },
+    {
+        "code": "553915",
+        "long": {
+            "default": "Kaluga"
+        }
+    },
+    {
+        "code": "554234",
+        "long": {
+            "default": "Kaliningrad"
+        }
+    },
+    {
+        "code": "554840",
+        "long": {
+            "default": "Ischewsk"
+        }
+    },
+    {
+        "code": "555312",
+        "long": {
+            "default": "Iwanowo"
+        }
+    },
+    {
+        "code": "558146",
+        "long": {
+            "default": "Gubkin"
+        }
+    },
+    {
+        "code": "558418",
+        "long": {
+            "default": "Grosny"
+        }
+    },
+    {
+        "code": "561347",
+        "long": {
+            "default": "Glasow"
+        }
+    },
+    {
+        "code": "561667",
+        "long": {
+            "default": "Gelendschik"
+        }
+    },
+    {
+        "code": "561887",
+        "long": {
+            "default": "Gattschina"
+        }
+    },
+    {
+        "code": "563514",
+        "long": {
+            "default": "Elista"
+        }
+    },
+    {
+        "code": "563523",
+        "long": {
+            "default": "Elektrostal"
+        }
+    },
+    {
+        "code": "564719",
+        "long": {
+            "default": "Dubna"
+        }
+    },
+    {
+        "code": "565348",
+        "long": {
+            "default": "Donezk"
+        }
+    },
+    {
+        "code": "565381",
+        "long": {
+            "default": "Domodedowo"
+        }
+    },
+    {
+        "code": "565955",
+        "long": {
+            "default": "Dmitrow"
+        }
+    },
+    {
+        "code": "566199",
+        "long": {
+            "default": "Dimitrowgrad"
+        }
+    },
+    {
+        "code": "566532",
+        "long": {
+            "default": "Derbent"
+        }
+    },
+    {
+        "code": "567434",
+        "long": {
+            "default": "Tschussowoi"
+        }
+    },
+    {
+        "code": "569154",
+        "long": {
+            "default": "Tscherkessk"
+        }
+    },
+    {
+        "code": "569223",
+        "long": {
+            "default": "Tscherepowez"
+        }
+    },
+    {
+        "code": "569591",
+        "long": {
+            "default": "Tschechow"
+        }
+    },
+    {
+        "code": "569696",
+        "long": {
+            "default": "Tscheboksary"
+        }
+    },
+    {
+        "code": "570427",
+        "long": {
+            "default": "Busuluk"
+        }
+    },
+    {
+        "code": "570479",
+        "long": {
+            "default": "Buinaksk"
+        }
+    },
+    {
+        "code": "571159",
+        "long": {
+            "default": "Buguruslan"
+        }
+    },
+    {
+        "code": "571476",
+        "long": {
+            "default": "Brjansk"
+        }
+    },
+    {
+        "code": "572154",
+        "long": {
+            "default": "Borowitschi"
+        }
+    },
+    {
+        "code": "572525",
+        "long": {
+            "default": "Borissoglebsk"
+        }
+    },
+    {
+        "code": "577206",
+        "long": {
+            "default": "Beresniki"
+        }
+    },
+    {
+        "code": "577893",
+        "long": {
+            "default": "Beloretschensk"
+        }
+    },
+    {
+        "code": "578072",
+        "long": {
+            "default": "Belgorod"
+        }
+    },
+    {
+        "code": "578120",
+        "long": {
+            "default": "Belebei"
+        }
+    },
+    {
+        "code": "579460",
+        "long": {
+            "default": "Balaschow"
+        }
+    },
+    {
+        "code": "579464",
+        "long": {
+            "default": "Balaschicha"
+        }
+    },
+    {
+        "code": "579492",
+        "long": {
+            "default": "Balakowo"
+        }
+    },
+    {
+        "code": "579514",
+        "long": {
+            "default": "Balachna"
+        }
+    },
+    {
+        "code": "580054",
+        "long": {
+            "default": "Asow"
+        }
+    },
+    {
+        "code": "580497",
+        "long": {
+            "default": "Astrachan"
+        }
+    },
+    {
+        "code": "580724",
+        "long": {
+            "default": "Arsamas"
+        }
+    },
+    {
+        "code": "580922",
+        "long": {
+            "default": "Armawir"
+        }
+    },
+    {
+        "code": "581357",
+        "long": {
+            "default": "Apatity"
+        }
+    },
+    {
+        "code": "582182",
+        "long": {
+            "default": "Anapa"
+        }
+    },
+    {
+        "code": "582750",
+        "long": {
+            "default": "Alexin"
+        }
+    },
+    {
+        "code": "583350",
+        "long": {
+            "default": "Alexandrow"
+        }
+    },
+    {
+        "code": "584243",
+        "long": {
+            "default": "Adler"
+        }
+    },
+    {
+        "code": "827329",
+        "long": {
+            "default": "Pawlowo"
+        }
+    },
+    {
+        "code": "1485439",
+        "long": {
+            "default": "Sarinsk"
+        }
+    },
+    {
+        "code": "1486209",
+        "long": {
+            "default": "Jekaterinburg"
+        }
+    },
+    {
+        "code": "1486910",
+        "long": {
+            "default": "Workuta"
+        }
+    },
+    {
+        "code": "1487281",
+        "long": {
+            "default": "Werchnjaja Pyschma"
+        }
+    },
+    {
+        "code": "1488253",
+        "long": {
+            "default": "Selenogorsk"
+        }
+    },
+    {
+        "code": "1488754",
+        "long": {
+            "default": "Tjumen"
+        }
+    },
+    {
+        "code": "1489425",
+        "long": {
+            "default": "Tomsk"
+        }
+    },
+    {
+        "code": "1490624",
+        "long": {
+            "default": "Surgut"
+        }
+    },
+    {
+        "code": "1492663",
+        "long": {
+            "default": "Serow"
+        }
+    },
+    {
+        "code": "1493467",
+        "long": {
+            "default": "Rubzowsk"
+        }
+    },
+    {
+        "code": "1496153",
+        "long": {
+            "default": "Omsk"
+        }
+    },
+    {
+        "code": "1496747",
+        "long": {
+            "default": "Nowosibirsk"
+        }
+    },
+    {
+        "code": "1496990",
+        "long": {
+            "default": "Nowokusnezk"
+        }
+    },
+    {
+        "code": "1497543",
+        "long": {
+            "default": "Nischnewartowsk"
+        }
+    },
+    {
+        "code": "1497951",
+        "long": {
+            "default": "Nasarowo"
+        }
+    },
+    {
+        "code": "1498693",
+        "long": {
+            "default": "Minussinsk"
+        }
+    },
+    {
+        "code": "1498894",
+        "long": {
+            "default": "Miass"
+        }
+    },
+    {
+        "code": "1498920",
+        "long": {
+            "default": "Meschduretschensk"
+        }
+    },
+    {
+        "code": "1500607",
+        "long": {
+            "default": "Lessosibirsk"
+        }
+    },
+    {
+        "code": "1500665",
+        "long": {
+            "default": "Leninsk-Kusnezki"
+        }
+    },
+    {
+        "code": "1500973",
+        "long": {
+            "default": "Kysyl"
+        }
+    },
+    {
+        "code": "1501321",
+        "long": {
+            "default": "Kurgan"
+        }
+    },
+    {
+        "code": "1502026",
+        "long": {
+            "default": "Krasnojarsk"
+        }
+    },
+    {
+        "code": "1503772",
+        "long": {
+            "default": "Chanty-Mansijsk"
+        }
+    },
+    {
+        "code": "1503901",
+        "long": {
+            "default": "Kemerowo"
+        }
+    },
+    {
+        "code": "1504682",
+        "long": {
+            "default": "Kansk"
+        }
+    },
+    {
+        "code": "1505453",
+        "long": {
+            "default": "Ischim"
+        }
+    },
+    {
+        "code": "1508291",
+        "long": {
+            "default": "Tscheljabinsk"
+        }
+    },
+    {
+        "code": "1510018",
+        "long": {
+            "default": "Bijsk"
+        }
+    },
+    {
+        "code": "1510350",
+        "long": {
+            "default": "Berdsk"
+        }
+    },
+    {
+        "code": "1510469",
+        "long": {
+            "default": "Belowo"
+        }
+    },
+    {
+        "code": "1510853",
+        "long": {
+            "default": "Barnaul"
+        }
+    },
+    {
+        "code": "1511494",
+        "long": {
+            "default": "Anschero-Sudschensk"
+        }
+    },
+    {
+        "code": "1512165",
+        "long": {
+            "default": "Atschinsk"
+        }
+    },
+    {
+        "code": "1512236",
+        "long": {
+            "default": "Abakan"
+        }
+    },
+    {
+        "code": "1536289",
+        "long": {
+            "default": "Sneschinsk"
+        }
+    },
+    {
+        "code": "1538637",
+        "long": {
+            "default": "Sewersk"
+        }
+    },
+    {
+        "code": "2013348",
+        "long": {
+            "default": "Wladiwostok"
+        }
+    },
+    {
+        "code": "2014006",
+        "long": {
+            "default": "Ussurijsk"
+        }
+    },
+    {
+        "code": "2014407",
+        "long": {
+            "default": "Ulan-Ude"
+        }
+    },
+    {
+        "code": "2019528",
+        "long": {
+            "default": "Nachodka"
+        }
+    },
+    {
+        "code": "2021851",
+        "long": {
+            "default": "Komsomolsk am Amur"
+        }
+    },
+    {
+        "code": "2022890",
+        "long": {
+            "default": "Chabarowsk"
+        }
+    },
+    {
+        "code": "2023469",
+        "long": {
+            "default": "Irkutsk"
+        }
+    },
+    {
+        "code": "2025339",
+        "long": {
+            "default": "Tschita"
+        }
+    },
+    {
+        "code": "2026609",
+        "long": {
+            "default": "Blagoweschtschensk"
+        }
+    },
+    {
+        "code": "2026643",
+        "long": {
+            "default": "Birobidschan"
+        }
+    },
+    {
+        "code": "2027667",
+        "long": {
+            "default": "Angarsk"
+        }
+    },
+    {
+        "code": "2119441",
+        "long": {
+            "default": "Juschno-Sachalinsk"
+        }
+    },
+    {
+        "code": "2122104",
+        "long": {
+            "default": "Petropawlowsk-Kamtschatski"
+        }
+    },
+    {
+        "code": "2123628",
+        "long": {
+            "default": "Magadan"
+        }
+    },
+    {
+        "code": "6695754",
+        "long": {
+            "default": "Kogalym"
+        }
+    }
+]

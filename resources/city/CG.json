@@ -1,0 +1,20 @@
+[
+    {
+        "code": "2255414",
+        "long": {
+            "default": "Pointe-Noire"
+        }
+    },
+    {
+        "code": "2258261",
+        "long": {
+            "default": "Loubomo"
+        }
+    },
+    {
+        "code": "2260535",
+        "long": {
+            "default": "Brazzaville"
+        }
+    }
+]

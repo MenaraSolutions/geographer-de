@@ -1,0 +1,20 @@
+[
+    {
+        "code": "588335",
+        "long": {
+            "default": "Dorpat"
+        }
+    },
+    {
+        "code": "588409",
+        "long": {
+            "default": "Tallinn"
+        }
+    },
+    {
+        "code": "590031",
+        "long": {
+            "default": "Narwa"
+        }
+    }
+]

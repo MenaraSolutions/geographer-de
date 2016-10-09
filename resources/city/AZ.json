@@ -1,0 +1,44 @@
+[
+    {
+        "code": "146970",
+        "long": {
+            "default": "Stepanakert"
+        }
+    },
+    {
+        "code": "147429",
+        "long": {
+            "default": "Nachitschewan"
+        }
+    },
+    {
+        "code": "147622",
+        "long": {
+            "default": "Lənkəran"
+        }
+    },
+    {
+        "code": "584923",
+        "long": {
+            "default": "Sumqayıt"
+        }
+    },
+    {
+        "code": "585514",
+        "long": {
+            "default": "Mingäçevir"
+        }
+    },
+    {
+        "code": "586523",
+        "long": {
+            "default": "Gäncä"
+        }
+    },
+    {
+        "code": "587084",
+        "long": {
+            "default": "Baku"
+        }
+    }
+]

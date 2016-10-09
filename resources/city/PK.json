@@ -1,0 +1,110 @@
+[
+    {
+        "code": "1163054",
+        "long": {
+            "default": "Turbat"
+        }
+    },
+    {
+        "code": "1164909",
+        "long": {
+            "default": "Sialkot"
+        }
+    },
+    {
+        "code": "1166000",
+        "long": {
+            "default": "Sargodha"
+        }
+    },
+    {
+        "code": "1166993",
+        "long": {
+            "default": "Rawalpindi"
+        }
+    },
+    {
+        "code": "1167528",
+        "long": {
+            "default": "Quetta"
+        }
+    },
+    {
+        "code": "1168197",
+        "long": {
+            "default": "Peschawar"
+        }
+    },
+    {
+        "code": "1169607",
+        "long": {
+            "default": "Muzaffarabad"
+        }
+    },
+    {
+        "code": "1169825",
+        "long": {
+            "default": "Multan"
+        }
+    },
+    {
+        "code": "1170880",
+        "long": {
+            "default": "Mardan"
+        }
+    },
+    {
+        "code": "1172451",
+        "long": {
+            "default": "Lahore"
+        }
+    },
+    {
+        "code": "1174872",
+        "long": {
+            "default": "Karatschi"
+        }
+    },
+    {
+        "code": "1175864",
+        "long": {
+            "default": "Jhelam"
+        }
+    },
+    {
+        "code": "1176615",
+        "long": {
+            "default": "Islamabad"
+        }
+    },
+    {
+        "code": "1176734",
+        "long": {
+            "default": "Hyderabad"
+        }
+    },
+    {
+        "code": "1177446",
+        "long": {
+            "default": "Gwadar"
+        }
+    },
+    {
+        "code": "1177662",
+        "long": {
+            "default": "Gujranwala"
+        }
+    },
+    {
+        "code": "1179400",
+        "long": {
+            "default": "Faisalabad"
+        }
+    },
+    {
+        "code": "1180289",
+        "long": {
+            "default": "Dera Ghazi Khan"
+        }
+    }
+]

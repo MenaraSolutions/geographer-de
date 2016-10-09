@@ -1,0 +1,15 @@
+{
+    "name": "menarasolutions/geographer-ede",
+    "type": "library",
+    "description": "German translations for Geographer library",
+    "keywords": ["german","geographer","geolocation","localization"],
+    "homepage": "https://github.com/MenaraSolutions/geographer-de",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Mysenko",
+            "email": "denis@menara.com.au",
+            "homepage": "https://www.menara.com.au"
+        }
+    ]
+}

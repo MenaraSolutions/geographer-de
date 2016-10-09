@@ -1,0 +1,20 @@
+[
+    {
+        "code": "1282898",
+        "long": {
+            "default": "Pokhara"
+        }
+    },
+    {
+        "code": "1282931",
+        "long": {
+            "default": "Lalitpur"
+        }
+    },
+    {
+        "code": "1283240",
+        "long": {
+            "default": "Kathmandu"
+        }
+    }
+]
